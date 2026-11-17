@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,432</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,553</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 10:16 UTC</sub>
+<sub>Snapshot 2026-11-17 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,15 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**11,432 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system.
+**11,553 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Finance Manager (Malawi/US) | givedirectly | Remote |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/givedirectly/jobs/4754449005) |
+| Deputy Director - Expense Budget | City of New York | New York City, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016899196) |
+| Deputy Director - Expense Budget | City of New York | New York City, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016899206) |
+| Bookkeeper | City of New York | New York City, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016899215) |
 | Tax Manager - Corporate | bakertilly | USA MA Tewksbury |  | 2026-11-17 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Manager---Corporate_JR109000) |
 | Accounts Receivable Supervisor | airliquidehr | Independence, OH - Rockside Woods Blvd |  | 2026-11-17 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/en-US/airgasexternalcareer/job/Independence-OH---Rockside-Woods-Blvd/Accounts-Receivable-Supervisor_R10104535) |
 | Accounting Technician I | nc | Wake County, NC |  | 2026-11-17 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Accounting-Technician-I_JR-128687) |
@@ -64,6 +68,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Head of Cost Accounting | vardaspace | El Segundo, California, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8206740003) |
 | Director, Accounting | vardaspace | El Segundo, California, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8206736003) |
 | Strategic Finance Manager | radical-numerics | San Francisco |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/radical-numerics/dbc16f1b-4b00-4767-821a-d5120a96c886) |
+| Accountant | Accordus | Worldwide |  | 2026-11-16 | [Apply](https://accordus.breezy.hr/p/e5d4823982f0-accountant) |
+| Senior Tax Associate - Partnership Tax | Aprio | Denver, CO |  | 2026-11-16 | [Apply](https://jobs.lever.co/Aprio/a059a61f-eea9-4b0a-864f-5456ab0bd82c) |
+| Senior Manager, Client Accounting & Advisory Services / Aerospace, Defense & Go... | Aprio | Rockville, MD |  | 2026-11-16 | [Apply](https://jobs.lever.co/Aprio/4d46714c-99ac-4efc-8a74-53f2b54d2f7b) |
+| Senior Associate, Client Accounting & Advisory Services - Aerospace, Defense &... | Aprio | Rockville, MD |  | 2026-11-16 | [Apply](https://jobs.lever.co/Aprio/02b52197-6934-4712-973d-831e6c31e174) |
+| Controller | rePurpose Global | New York |  | 2026-11-16 | [Apply](https://jobs.lever.co/repurposeglobal/e263b72b-1b8c-4a2d-8e41-a7fc26e42245) |
+| Payroll Administrator | flynncompanies | Spokane, WA |  | 2026-11-16 | [Apply](https://jobs.lever.co/flynncompanies/16e5762c-c7d7-485f-a3f7-4c6426a030f1) |
 | Accountant III | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-16 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007Y3&lang=en) |
 | Accounts Payable Clerk | D.R. Horton | Biloxi, MS, US |  | 2026-11-16 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605765&lang=en) |
 | Accounts Payable Clerk - Temporary | D.R. Horton | High Point, NC, US |  | 2026-11-16 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605804&lang=en) |
@@ -72,7 +82,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Internal Technology Auditor | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-16 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72866) |
 | Finance Director, SaaS Cost of Cloud | Oracle | United States |  | 2026-11-16 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350374) |
 | Early Careers: Finance Associate Internship | WTW | Chicago, IL, United States |  | 2026-11-16 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607261) |
-| Tax Accountant (Real Estate) | Kaufman Rossin | Miami, Florida, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/476C2B9B7C) |
 | Supervisor - Energy Accounting | cleco | Pineville, LA |  | 2026-11-16 | [Apply](https://cleco.wd5.myworkdayjobs.com/en-US/clecojobs/job/Pineville-LA/Supervisor---Energy-Accounting_13374) |
 | Senior Accountant | wittkieffer | Remote Illinois |  | 2026-11-16 | [Apply](https://wittkieffer.wd12.myworkdayjobs.com/en-US/careers/job/Remote-Illinois/Senior-Accountant_JR100241) |
 | Intern - Accounting Operations | alliancedata | Columbus, OH |  | 2026-11-16 | [Apply](https://alliancedata.wd5.myworkdayjobs.com/en-US/breadfinancial_us/job/Columbus-OH/Intern---Accounting-Operations_R1013415) |
@@ -125,7 +134,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Sr. Financial Analyst-Clinical Research | carilionclinic | Remote |  | 2026-11-16 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Remote/Sr-Financial-Analyst-Clinical-Research_R163530) |
 | Finance Leadership Program 2027 Cohort | carrier | 4 Locations |  | 2026-11-16 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Finance-Leadership-Program-2027-Cohort_30217222) |
 | Finance Leadership Program 2027 Cohort | carrier | 4 Locations |  | 2026-11-16 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Finance-Leadership-Program-2027-Cohort_30217224-2) |
-| Associate Financial Analyst | boeing | USA - Oklahoma City, OK |  | 2026-11-16 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Oklahoma-City-OK/Associate-Financial-Analyst_JR2026526499-1) |
 | Director, Finance | bmo | Chicago, IL, USA |  | 2026-11-16 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Chicago-IL-USA/Director--Finance_R260015570) |
 | Finance Interns, Undergraduate - LIFT Program | astrazeneca | US - Wilmington - DE |  | 2026-11-16 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Wilmington---DE/Finance-Interns--Undergraduate---LIFT-Program_R-264457) |
 | Insomniac - Senior Accountant, Consumer Products - Motorsports | livenation | Henderson, NV, USA |  | 2026-11-16 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Henderson-NV-USA/Insomniac---Senior-Accountant--Consumer-Products---Motorsports_JR-93991-1) |
@@ -133,6 +141,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager, Tax - International Tax Planning | Walmart | (USA) Maverick Building AR Bentonville Home Office |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Maverick-Building-AR-Bentonville-Home-Office/Manager--Tax_R-2704930) |
 | Sr Functional Analyst , Finance & Legal | Workday | 2 Locations |  | 2026-11-16 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Sr--Functional-Analyst---Finance---Legal_JR-0110937-1) |
 | Finance Pathways Rotation Analyst (Early Career) | Salesforce | Indiana - Indianapolis |  | 2026-11-16 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359637-1) |
+| Associate Finance Tax Analyst | Citi | New Castle Delaware United States |  | 2026-11-16 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-Castle-Delaware-United-States/Associate-Finance-Tax-Analyst_261008375) |
 | Strategic Financial Analyst - AI Compute | NVIDIA | US, CA, Santa Clara |  | 2026-11-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Strategic-Financial-Analyst---AI-Compute_JR2029681-1) |
 | Accounts Payable Specialist | WVU Medicine | Remote |  | 2026-11-16 | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/en-US/WVUH/job/Remote/Accounts-Payable-Specialist_JR26-49959-1) |
 | Senior Financial Analyst | U.S. Bank | 4 Locations |  | 2026-11-16 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/Senior-Financial-Analyst_2026-0035497) |
@@ -187,7 +196,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Staff Accountant | CornerstoneBuildingBrandsCareers | Cary, NC, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990016879204) |
 | Senior Accountant | CornerstoneBuildingBrandsCareers | Cary, NC, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990016879766) |
 | Global Tax Manager | ensono | Remote - United States |  | 2026-11-16 | [Apply](https://ensono.com/company/careers/jobs-board/?gh_jid=4753116005) |
-| Associate Director, Capital Markets Finance | lexeotx | New York, New York |  | 2026-11-16 | [Apply](https://jobs.lever.co/lexeotx/cbbe1ee5-a629-4448-9f49-bc659fa1b4c4) |
 | Vice President, Corporate Controller | dianthustherapeutics | Remote |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/dianthustherapeutics/jobs/4754881005) |
 | Tax Expert | CD PROJEKT RED | Boston, MA, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/CDPROJEKTRED/744000161822439) |
 | Sr. Accountant - CAM - CCM | Carlisle Companies | Scottsdale, Arizona, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/Carlisle/3743990016881486) |
@@ -197,14 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Associate, AP Accountant | chompscareers | Remote |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/chompscareers/jobs/5296283007) |
 | Director of Finance | chestercommunitycharterschool | Chester, PA |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/chestercommunitycharterschool/jobs/5293839007) |
 | Head of Finance | paraform | San Francisco |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/paraform/af7a0f94-0b51-4ed5-bf33-4867c32871c1) |
-| VP of Finance | Nox Metals | Los Angeles |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/nox-metals/8a40881f-643b-442f-b670-0fa4c01ea9ad) |
-| Associate II, Fund Administration (Accounting) | junipersquare | Americas (USA or Canada) |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/junipersquare/b655be12-890d-4fee-9d69-2a11bf08aaee) |
-| Internship - Finance (Graduate) | biomedrealty | San Diego, CA |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/biomedrealty/jobs/4729939006) |
-| Internship - Finance (Undergraduate) | biomedrealty | San Diego, CA |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/biomedrealty/jobs/4729934006) |
-| Director of Finance | go-nimbly | Remote - California, Colorado, Georgia, Illinois, Massachusetts, New... |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/go-nimbly/64177fb4-b146-4228-8b0b-bccbbd72e8f2) |
-| Strategic Finance Lead | Glide | New York City |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/glide/0b03a7d7-0dcb-4ee7-b960-834794209d95) |
-| Director of Capital Markets | fluidstack | New York, NY |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/fluidstack/504fca5f-151e-4dda-be8c-a148c82287ed) |
-| Strategic Finance | Exa | San Francisco, California |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/exa/99942bff-2e05-49a9-8072-a407125da7b7) |
 <!-- JOBS_TABLE_END -->
 
 <details>
