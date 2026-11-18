@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,501</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,476</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 12:16 UTC</sub>
+<sub>Snapshot 2026-11-18 16:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,36 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**11,501 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 12:16 UTC.** Apply links go to the employer's career page or hiring system.
+**11,476 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 16:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Payroll Specialist - Job #1150 | NLACRC | SAN FERNANDO VALLEY, Chatsworth, CA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=075f0c56-cafe-4e98-9bbb-e6147eabe4ad&ccId=19000101_000001&jobId=971198&lang=en_US&source=CC2) |
+| Payroll Specialist I | insperity | Brea, CA |  | 2026-11-18 | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Brea-CA/Payroll-Specialist-I_JR103592) |
+| Finance Analyst (INDG) | bloomberg | Arlington, VA - 1801 S Bell (INDG) |  | 2026-11-18 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/en-US/bloombergindustrygroup_external_career_site/job/Arlington-VA---1801-S-Bell-INDG/Finance-Analyst--INDG-_145848) |
+| Site Accountant | ineos | Bay Street, Texas City, TX |  | 2026-11-18 | [Apply](https://ineos.wd503.myworkdayjobs.com/en-US/ineoscareers/job/Bay-Street-Texas-City-TX/Site-Accountant_REQ-3071) |
+| Senior Accountant US Accounting and Reporting | galderma | Miami |  | 2026-11-18 | [Apply](https://galderma.wd3.myworkdayjobs.com/en-US/external/job/Miami/Senior-Accountant-US-Accounting-and-Reporting_JR021812-1) |
+| Senior Accountant - US Accounting and Reporting (S2P and R2R) | galderma | Miami |  | 2026-11-18 | [Apply](https://galderma.wd3.myworkdayjobs.com/en-US/broadbean_external/job/Miami/Senior-Accountant---US-Accounting-and-Reporting--S2P-and-R2R-_JR021814) |
+| Investment Accounting, Manager | aig | 3 Locations |  | 2026-11-18 | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/CT-Wilton/Investment-Accounting--Manager_JR2600117) |
+| Senior Auditor - Performance Audit Division | nc | Mecklenburg County, NC |  | 2026-11-18 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Mecklenburg-County-NC/Senior-Auditor---Performance-Audit-Division_JR-123463) |
+| Accountant II - Accounts Payable | nc | Wake County, NC |  | 2026-11-18 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Accountant-II---Accounts-Payable_JR-128816) |
+| Financial Analyst | basspro | Springfield, MO (Bass Pro Shops Base Camp) |  | 2026-11-18 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Financial-Analyst_R272902) |
+| Global Treasurer | woolpert | Remote - United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4504291009) |
+| Sr. Manager Financial Planning & Analysis (FP&A) | UnitekLearning | Tempe, AZ, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/UnitekLearning/744000162334980) |
+| Finance Controller (Chicago, IL or Atlanta, GA) | StowGroup | Adairsville, GA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/StowGroup/744000162311899) |
+| Senior Accountant | Senior plc | Bartlett, Illinois, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/SeniorPlc1/3743990016936756) |
+| Accounting Intern | legendcareers | Bridgewater, New Jersey, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755557005) |
+| Controller - IQSIGHT, LLC | Keenfinity | Fairport, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000162333869) |
+| Fund Finance - 2027 Summer Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938097002) |
+| Sr Analyst, Finance Transformation (Accounting & Business Process) | Intuitive | Sunnyvale, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162296896) |
+| Senior Revenue Accounting Analyst | Intuitive | Sunnyvale, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162338229) |
+| Sr. Financial Analyst | engine | Remote - US |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/engine/jobs/8200713003) |
+| Senior Manager, Revenue Accounting | Freshworks | San Mateo, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Freshworks/744000162313739) |
+| Manager, Fixed Assets Accounting | Brightspeed | Charlotte, NC, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Brightspeed/744000162319794) |
+| Treasury Services Specialist | capitalfarmcredit | College Station, Texas |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5486450008) |
+| Tax Manager | ascendtogether | Birmingham, AL |  | 2026-11-18 | [Apply](https://www.ascendtogether.com/partner-firms-jobs/?gh_jid=5300509007) |
+| Finance Expert | aptura | Global |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/aptura/56912b83-52a3-46c5-8a36-76330d384540) |
 | Accounting Manager - Payroll | D.R. Horton | Arlington, TX, US |  | 2026-11-18 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605725&lang=en) |
 | Corporate Tax Senior Associate - NorCal TCL (Technology, Communication & Life S... | bakertilly | 9 Locations |  | 2026-11-18 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-CA-San-Francisco-333-Bush-St/Corporate-Tax-Senior-Associate---NorCal-TCL--Technology--Communication---Life-Sciences-_JR109050) |
 | Corporate Tax Manager - NorCal TCL (Technology, Communication, Life Sciences) | bakertilly | 9 Locations |  | 2026-11-18 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-CA-San-Francisco-333-Bush-St/Corporate-Tax-Manager---NorCal-TCL--Technology--Communication--Life-Sciences-_JR109051) |
@@ -83,6 +108,10 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounts Receivable Clerk I | basspro | Springfield, MO (Tracker Marine Base Camp) |  | 2026-11-18 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Accounts-Receivable-Clerk-I_R272807) |
 | Operations Controller | abb | New Berlin, Wisconsin, United States of America |  | 2026-11-18 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Operations-Controller_JR00053731) |
 | Impact Finance - Affordable Housing Real Estate Financial Analyst | U.S. Bank | 3 Locations |  | 2026-11-18 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Louis-MO/Impact-Finance---Affordable-Housing-Real-Estate-Financial-Analyst_2026-0036069) |
+| Senior Accountant | Dominique Dawes Academy | Remote – This position is open to applicants residing in DC, FL, GA,... |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671071) |
+| Senior Tax Manager | RODEFER MOSS & CO PLLC | Brentwood, TN |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672122) |
+| Tax Senior Associate - Wealth Transfer & Preservation | Brady Martz | Fargo, North Dakota, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/27718E73DE) |
+| AVP Finance - Canyons South | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-17 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/AVP-Finance---Canyons-South_R189005) |
 | Accounting Clerk II | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-17 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=987149&lang=en) |
 | Accounting Clerk II | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-17 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=987147&lang=en) |
 | Auditor IV | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-17 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007YW&lang=en) |
@@ -100,15 +129,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Specialist, Accounts Receivable | Boston Properties | Boston, MA, United States |  | 2026-11-17 | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26184) |
 | Accounting Manager | Exceptional Parents Unlimited, Inc. | Fresno, CA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673676) |
 | Accounts Payable Coordinator | JSP International LLC | Butler, PA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640755) |
-| Junior Billing & Reconciliation Analyst | Bask Health | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/F54035774C) |
-| Billing Operations Intern | Bask Health | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/515BFB1D98) |
-| Billing & Reconciliation Analyst | Bask Health | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/E4AAACE73A) |
-| Junior Accountant | Aretum | McLean, Virginia, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/8B83C10E80) |
-| Senior Accountant - Dedicated Client Lead (CPA Preferred) | AlphaX | Cranford, New Jersey, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/C87A0307EC) |
-| Senior Accountant - Client Account Lead (CPA Preferred) | AlphaX | Cranford, New Jersey, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/11AFD4330D) |
-| Accountant - Dedicated Client Lead (CPA Preferred) | AlphaX | Cranford, New Jersey, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/DF3FC0EF7E) |
-| Senior Accounts Payable Specialist | terrascend | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/terrascend/c775d6e9-ffb9-4e1c-a6f7-deb92ab1a952) |
-| Finance and Accounting Manager | sunsrce | Northborough, MA 01532 |  | 2026-11-17 | [Apply](https://jobs.lever.co/sunsrce/177d04bd-3a74-4390-86fe-7ee8629220fd) |
 | Full-Time / FC Dallas / Accountant | FC Dallas | Frisco, TX, United States |  | 2026-11-17 | [Apply](https://jobs.jobvite.com/fcdallas/job/oUc7Afwx) |
 | Accounting Clerk III - Naval Surface Warfare Center | TLN Worldwide Enterprises Inc | Port Hueneme, CA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667966) |
 | Accounting Manager | solidpower | 14902 Grant Street, #120, Thornton CO 80023 |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/solidpower/jobs/6264399004) |
@@ -150,7 +170,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Staff Accountant | arcis | Arcis Golf - Corporate Office - Dallas, TX |  | 2026-11-17 | [Apply](https://arcis.wd12.myworkdayjobs.com/en-US/extna/job/Arcis-Golf---Corporate-Office---Dallas-TX/Staff-Accountant_R17644) |
 | Finance Senior Team Leader Accounting Operations | bakerhughes | US-TX-HOUSTON-575 N. DAIRY ASHFORD RD, ENERGY CENTER II EC2 |  | 2026-11-17 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Finance-Senior-Team-Leader-Accounting-Operations_R172026) |
 | Accounting Technician I | nc | Greene County, NC |  | 2026-11-17 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Greene-County-NC/Accounting-Technician-I_JR-128741) |
-| Accountant I | nc | Wake County, NC |  | 2026-11-17 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Accountant-I_JR-128465) |
 | Manager, Tax | carrier | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33... |  | 2026-11-17 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Manager---Tax_30221954-2) |
 | (USA) Manager, Tax | Walmart | (USA) Maverick Building AR Bentonville Home Office |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Maverick-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Manager--Tax_R-2706646-1) |
 | Director, Tax | Walmart | (USA) Maverick Building AR Bentonville Home Office |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Maverick-Building-AR-Bentonville-Home-Office/Director--Tax_R-2707170) |
@@ -186,25 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Associate Manager, SOX and Internal Controls | Coinbase | Remote - USA |  | 2026-11-17 | [Apply](https://www.coinbase.com/careers/positions/8394348?gh_jid=8394348) |
 | Senior Accountant | reflectionai | U.S. Office |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/reflectionai/38facc00-d912-4458-864f-86460a69d956) |
 | Corporate Finance Lead | reflectionai | San Francisco, CA |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/reflectionai/ffe2e0d9-1dbb-4f93-b2a7-c1d39c5f4567) |
-| Tax Manager | c3iot | Redwood City, California, United States |  | 2026-11-17 | [Apply](https://c3.ai/job-description/8948748002?gh_jid=8948748002) |
-| Director of Finance | first-resonance | Los Angeles |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/first-resonance/10fd3684-f560-485e-a8c2-b0d2f7e19b18) |
-| Accounting Manager | clera | San Leandro |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/Clera/5ff8b1ad-cc7a-4402-bc30-1a01de429087) |
-| Payroll Manager | AccorHotel | New York, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000162119381) |
-| Accounts Payable / General Cashier | AccorHotel | New York, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000162120719) |
-| Assistant Controller | bridgepoint-consulting | Atlanta |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/bridgepoint-consulting/3fceb006-f6d8-47dc-b4de-457595894516) |
-| Finance Lead, FP&A - EHS & US Site Ops | AbbVie | North Chicago, IL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016911476) |
-| Accountant II | bcbsla | Corporate - Baton Rouge, LA |  | 2026-11-17 | [Apply](https://bcbsla.wd1.myworkdayjobs.com/en-US/external/job/Corporate---Baton-Rouge-LA/Accountant-II_R12173) |
-| Staff Accountant | zenithamerican | Oak Brook, IL |  | 2026-11-17 | [Apply](https://zenithamerican.wd5.myworkdayjobs.com/en-US/zas/job/Oak-Brook-IL/Staff-Accountant_JR101226) |
-| Project Finance Analyst III | altasciences | 7 Locations |  | 2026-11-17 | [Apply](https://altasciences.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-Kansas/Project-Finance-Analyst-III_R103226-1) |
-| Senior Payroll Coordinator | albertamotorassociation | CA-AB-Edmonton-South |  | 2026-11-17 | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/ama/job/CA-AB-Edmonton-South/Senior-Payroll-Coordinator_JR102998-1) |
-| Finance Manager | andersonauto | Fred Anderson Kia of Raleigh |  | 2026-11-17 | [Apply](https://andersonauto.wd5.myworkdayjobs.com/en-US/external/job/Fred-Anderson-Kia-of-Raleigh/Finance-Manager_R2906) |
-| Finance Analyst IV - Marketplace FP&A | centene | Remote-MO |  | 2026-11-17 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Finance-Analyst-IV---Marketplace-FP-A_1675944) |
-| Senior Director, Finance and Performance Management | centene | 6 Locations |  | 2026-11-17 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Senior-Director--Finance-and-Performance-Management_1664762-1) |
-| Senior Regulatory Accountant | aes | US, Indianapolis, IN |  | 2026-11-17 | [Apply](https://aes.wd1.myworkdayjobs.com/en-US/aes_us/job/US-Indianapolis-IN/Senior-Regulatory-Accountant_R1065532) |
-| Accounting Intern (January 2027 Start Date) | borgwarner | Auburn Hills - Michigan - USA |  | 2026-11-17 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/en-US/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Accounting-Intern--January-2027-Start-Date-_R2026-4552) |
-| Credit Analyst - Leveraged Finance | huntington | 3 Locations |  | 2026-11-17 | [Apply](https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Chicago-IL/Credit-Analyst---Leveraged-Finance_R0077595-1) |
-| Stores Controller-1st Shift | cat | Lafayette, Indiana |  | 2026-11-17 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Lafayette-Indiana/Stores-Controller-1st-Shift_R0000405697) |
-| CO15 Stores Controller- D1 Shift | cat | Lafayette, Indiana |  | 2026-11-17 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Lafayette-Indiana/CO15-Stores-Controller--D1-Shift_R0000405716) |
 <!-- JOBS_TABLE_END -->
 
 <details>
