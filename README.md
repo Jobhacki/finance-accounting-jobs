@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,702</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,727</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 00:17 UTC</sub>
+<sub>Snapshot 2026-11-19 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,16 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**11,702 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,727 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Tax Associate | ci | US-OH-Shaker Heights-3401 Tuttle-0290 |  | 2026-11-19 | [Apply](https://ci.wd3.myworkdayjobs.com/en-US/corient_external_career-site/job/US-OH-Shaker-Heights-3401-Tuttle-0290/Tax-Associate_JR6665) |
+| Tax Administrator | ci | US-OH-Shaker Heights-3401 Tuttle-0290 |  | 2026-11-19 | [Apply](https://ci.wd3.myworkdayjobs.com/en-US/corient_external_career-site/job/US-OH-Shaker-Heights-3401-Tuttle-0290/Tax-Administrator_JR6667) |
+| Treasury Manager | agilent | US-CA-Santa Clara |  | 2026-11-19 | [Apply](https://agilent.wd5.myworkdayjobs.com/en-US/agilent_careers/job/US-CA-Santa-Clara/Treasury-Manager_4040578) |
+| Accounting Technician II | nc | Wayne County, NC |  | 2026-11-19 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wayne-County-NC/Accounting-Technician-II_JR-128962) |
+| Data Partnerships Finance Lead | Parallel | San Francisco or Palo Alto |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/parallel/5c00939d-1534-4e3d-a600-dac5c4c6d252) |
 | Senior Financial Analyst Deferred Margin | abbott | United States - Illinois - Abbott Park |  | 2026-11-19 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Financial-Analyst-Deferred-Margin_31167265-1) |
 | Director - Budget and Fiscal Payroll | southtexascollege | Pecan Campus, McAllen Texas |  | 2026-11-19 | [Apply](https://southtexascollege.wd12.myworkdayjobs.com/en-US/stc/job/Pecan-Campus-McAllen-Texas/Director---Budget-and-Fiscal-Payroll_JR101620) |
 | Payroll Specialist I | insperity | Kingwood, TX |  | 2026-11-19 | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Kingwood-TX/Payroll-Specialist-I_JR103581) |
@@ -81,6 +86,13 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager, FP&A - Corporate Finance | PayPal | 2 Locations |  | 2026-11-19 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--FP-A---Corporate-Finance_R0139200) |
 | Client Accounting Coordinator | CVS Health | NY - Amherst |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Client-Accounting-Coordinator_R1051483-1) |
 | Sr. Associate, Accounting - Card Partnerships Well Managed Team (Hybrid) | Capital One | 3 Locations |  | 2026-11-19 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Sr-Associate--Accounting---Card-Partnerships-Well-Managed-Team--Hybrid-_R1005725-1) |
+| Accounts Receivable Specialist | Polaris Direct LLC | Hooksett, NH |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4544178) |
+| Accounting Manager | Austin Telco Federal Credit Union | Austin, TX |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676868) |
+| Senior Client Accounting Services Specialist | Gatewood Wealth Solutions | Brentwood, Missouri, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/ADA2DF9DC8) |
+| Senior Corporate Accountant | Hudson River Trading | Austin, TX, United States; New York, NY, United States |  | 2026-11-18 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8400678) |
+| Revenue Accounting Manager | chaosindustries | El Segundo, California, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/chaosindustries/jobs/5297308007) |
+| Controller | commoncause | Washington, DC |  | 2026-11-18 | [Apply](https://jobs.lever.co/commoncause/22e3f388-426a-42fb-a367-904f21636694) |
+| Senior Revenue Accountant | asteralabs | San Jose, California, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/asteralabs/jobs/4755808005) |
 | Tax Senior - Fully Remote | CSL CPAs | USA, FL |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661278) |
 | Financial Accountant | CSL CPAs | Sarasota, FL |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674359) |
 | Sr. Manager General Finance | Purge Rite LLC | Willis, TX |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656707) |
@@ -142,8 +154,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Treasury Technology Specialist | cat | USA - TX - Irving - Walnut Hill |  | 2026-11-18 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/USA---TX---Irving---Walnut-Hill/Treasury-Technology-Specialist_R0000405656-1) |
 | Finance Leadership Program 2027 Cohort | carrier | 4 Locations |  | 2026-11-18 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Finance-Leadership-Program-2027-Cohort_30222841) |
 | Finance Leadership Program 2027 Cohort | carrier | 4 Locations |  | 2026-11-18 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Finance-Leadership-Program-2027-Cohort_30222842-2) |
-| Experienced Procurement Financial Analyst | boeing | USA - Mesa, AZ |  | 2026-11-18 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Mesa-AZ/Experienced-Procurement-Financial-Analyst_JR2026528728-2) |
-| Accounting Clerk | benchmark | Rubenstein Forum at The University of Chicago, Chicago, IL 60615 |  | 2026-11-18 | [Apply](https://benchmark.wd1.myworkdayjobs.com/en-US/pgh_careers/job/Rubenstein-Forum-at-The-University-of-Chicago--Chicago-IL-60615/Accounting-Clerk_R0069027) |
 | Senior Technology Auditor | verizon | 4 Locations |  | 2026-11-18 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-Technology-Auditor_R-1104083) |
 | US Corporate Income Tax Manager | circlek | Nonstore WARNERCROS TEMPE AZ |  | 2026-11-18 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Nonstore-WARNERCROS-TEMPE-AZ/US-Corporate-Income-Tax-Manager_R637386-1) |
 | Manager, Tax | Walmart | (USA) Maverick Building AR Bentonville Home Office |  | 2026-11-18 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Maverick-Building-AR-Bentonville-Home-Office/Manager--Tax_R-2672964) |
@@ -195,16 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Finance Analyst (INDG) | bloomberg | Arlington, VA - 1801 S Bell (INDG) |  | 2026-11-18 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/en-US/bloombergindustrygroup_external_career_site/job/Arlington-VA---1801-S-Bell-INDG/Finance-Analyst--INDG-_145848) |
 | Site Accountant | ineos | Bay Street, Texas City, TX |  | 2026-11-18 | [Apply](https://ineos.wd503.myworkdayjobs.com/en-US/ineoscareers/job/Bay-Street-Texas-City-TX/Site-Accountant_REQ-3071) |
 | Senior Accountant US Accounting and Reporting | galderma | Miami |  | 2026-11-18 | [Apply](https://galderma.wd3.myworkdayjobs.com/en-US/external/job/Miami/Senior-Accountant-US-Accounting-and-Reporting_JR021812-1) |
-| Investment Accounting, Manager | aig | 3 Locations |  | 2026-11-18 | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/CT-Wilton/Investment-Accounting--Manager_JR2600117) |
-| Senior Auditor - Performance Audit Division | nc | Mecklenburg County, NC |  | 2026-11-18 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Mecklenburg-County-NC/Senior-Auditor---Performance-Audit-Division_JR-123463) |
-| Accountant II - Accounts Payable | nc | Wake County, NC |  | 2026-11-18 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Accountant-II---Accounts-Payable_JR-128816) |
-| Financial Analyst | basspro | Springfield, MO (Bass Pro Shops Base Camp) |  | 2026-11-18 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Financial-Analyst_R272902) |
-| Global Treasurer | woolpert | Remote - United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4504291009) |
-| Sr. Manager Financial Planning & Analysis (FP&A) | UnitekLearning | Tempe, AZ, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/UnitekLearning/744000162334980) |
-| Finance Controller (Chicago, IL or Atlanta, GA) | StowGroup | Adairsville, GA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/StowGroup/744000162311899) |
-| Senior Accountant | Senior plc | Bartlett, Illinois, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/SeniorPlc1/3743990016936756) |
-| Accounting Intern | legendcareers | Bridgewater, New Jersey, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755557005) |
-| Controller - IQSIGHT, LLC | Keenfinity | Fairport, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000162333869) |
 <!-- JOBS_TABLE_END -->
 
 <details>
