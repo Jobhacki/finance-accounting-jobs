@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,017</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,118</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 08:16 UTC</sub>
+<sub>Snapshot 2026-11-19 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,14 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,017 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**12,118 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Director of Contracts, Bureau of Finance, Administration and Services | City of New York | Long Island City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016958826) |
+| Auditor | City of New York | New York City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016958956) |
+| Bookkeeper II | City of New York | New York, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959041) |
 | Director, Billing Services | wheels | 2 Locations |  | 2026-11-19 | [Apply](https://wheels.wd5.myworkdayjobs.com/en-US/wheels_careers/job/Schaumburg-IL/Director--Billing-Services_R5637) |
 | Tax Principal, Commercial | bakertilly | USA MI Southfield |  | 2026-11-19 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MI-Southfield/Tax-Principal--Commercial_JR109070) |
 | Tax Director - NorCal Private Wealth | bakertilly | 2 Locations |  | 2026-11-19 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-CA-San-Francisco-50-Fremont-St/Tax-Director---NorCal-Private-Wealth_JR109046) |
@@ -91,11 +94,21 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager, FP&A - Corporate Finance | PayPal | 2 Locations |  | 2026-11-19 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--FP-A---Corporate-Finance_R0139200) |
 | Client Accounting Coordinator | CVS Health | NY - Amherst |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Client-Accounting-Coordinator_R1051483-1) |
 | Sr. Associate, Accounting - Card Partnerships Well Managed Team (Hybrid) | Capital One | 3 Locations |  | 2026-11-19 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Sr-Associate--Accounting---Card-Partnerships-Well-Managed-Team--Hybrid-_R1005725-1) |
-| Federal Billing & Accounting Specialist (IPP / QuickBooks) | Akicita Cyber | Remote |  | 2026-11-18 | [Apply](https://jobs.lever.co/akicita-cyber/8d90cc43-e357-43fc-8beb-a60d44b40c86) |
-| Tax Supervising Senior -International | singerlewak | Los Angeles, California |  | 2026-11-18 | [Apply](https://jobs.lever.co/singerlewak/cf2fb368-731d-4a61-ae1b-040bd6fb9c23) |
-| Experienced Tax Staff - International | singerlewak | Los Angeles, California |  | 2026-11-18 | [Apply](https://jobs.lever.co/singerlewak/cdfea450-4215-4a89-ab1e-5b8341b8de1e) |
+| Accountant III | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-18 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007Z5&lang=en) |
+| Financial Planning & Analysis - Financial Analyst | Cincinnati Financial | Fairfield, OH, US |  | 2026-11-18 | [Apply](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2600961&lang=en) |
+| Senior Cost Accountant | Emerson Electric | Elyria, OH, United States |  | 2026-11-18 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013892) |
+| Accounting Associate | CooperSurgical | Victor, NY, United States |  | 2026-11-18 | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13281) |
+| Chubb Associate, Treasury Accounting | Chubb | Philadelphia, PA, United States |  | 2026-11-18 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38650) |
+| AVP, Finance | Chubb | Philadelphia, PA, United States |  | 2026-11-18 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37064) |
+| Senior Internal Auditor | Navy Federal | Pensacola, FL, United States |  | 2026-11-18 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32798) |
+| EATON - Finance Internship (ECJV) | Cummins | Galesburg, MI, United States |  | 2026-11-18 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439865) |
+| Senior Accountant | Southern Company | Atlanta, GA, United States |  | 2026-11-18 | [Apply](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22157) |
+| Vice President-Finance Operations | S&C Electric Company | Chicago, IL, United States |  | 2026-11-18 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107508) |
+| Finance Analyst, Cost Accounting | Sherwin-Williams | Cleveland, OH, United States |  | 2026-11-18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629240) |
+| Revenue Accountant | ACI Worldwide | NE, United States |  | 2026-11-18 | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20330) |
+| Assistant Controller | Black Hills Trucking LLC | Casper, WY, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5311bca8-9ee9-4069-a3bb-a7a23204bb4b&ccId=19000101_000001&jobId=635966&lang=en_US&source=CC2) |
+| Manager, Client Accounting & Advisory Services - Nonprofit | Aprio | Rockville, MD |  | 2026-11-18 | [Apply](https://jobs.lever.co/Aprio/c9546f53-032d-4f7b-a433-12e8857cc910) |
 | Executive Director, Internal Audit, Technology and AI Audit | revolutionmedicines | Remote (United States) |  | 2026-11-18 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8198323003) |
-| Payroll Administrator | foodsmart | Remote (US) |  | 2026-11-18 | [Apply](https://jobs.lever.co/foodsmart/0e47e72e-8515-4804-bb00-3bda9aa8e8a6) |
 | Accounts Receivable Specialist | Polaris Direct LLC | Hooksett, NH |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4544178) |
 | Accounting Manager | Austin Telco Federal Credit Union | Austin, TX |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676868) |
 | Senior Corporate Accountant | Hudson River Trading | Austin, TX, United States; New York, NY, United States |  | 2026-11-18 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8400678) |
@@ -192,19 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Vice President, Accounting | faradayfuture | El Segundo, California, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/faradayfuture/jobs/7618023003) |
 | Senior Accountant — DMV | evergreenservicesgroup | Washington, D.C. |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/evergreenservicesgroup/jobs/4755838005) |
 | Head of Strategic Finance | EnergyHub | Brooklyn, New York |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8945276002) |
-| Transcon Finance Agent | Expeditors | Bensenville, IL, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000162368099) |
-| Senior Accountant | datavant2 | Remote - United States |  | 2026-11-18 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5483335008) |
-| Manager, Financial Planning & Analysis | colovore | Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/colovore/jobs/4512490009) |
-| Senior Finance Manager, Air, Ground & Missile Defense | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5299024007?gh_jid=5299024007) |
-| Senior Analyst, Accounts Payable | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5299052007?gh_jid=5299052007) |
-| Specialist, Accounts Payable | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5299050007?gh_jid=5299050007) |
-| Tax Associate | carta | New York, NY; Santa Clara, CA; Seattle, WA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/carta/jobs/8208432003) |
-| Accounts Receivable Analyst | CoffmanEngineersInc | Seattle, WA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000162378749) |
-| Senior FP&A Analyst | tenex | Kansas City Metro |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/tenex/ec97cb18-925a-43bc-8a9e-590753464cbf) |
-| Deployment Associate - Accounting Solutions | rillet | New York City |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/rillet/5f0fd982-6366-4609-a59d-a3d28712fdfa) |
-| Sr. Director Revenue Accounting | bitwarden | US Remote |  | 2026-11-18 | [Apply](https://bitwarden.com/careers/8208395003/?gh_jid=8208395003) |
-| Controller | reframesystems | Billerica, MA |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/reframesystems/9c6f6bd0-9124-43ac-984f-31340d1d85a4) |
-| Travel & Expense Analyst | onebrief | United States / Remote |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/onebrief/99adebdf-da46-4265-9255-ab940b8b3e6e) |
 <!-- JOBS_TABLE_END -->
 
 <details>
