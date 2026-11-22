@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,343</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,284</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 16:18 UTC</sub>
+<sub>Snapshot 2026-11-22 20:18 UTC</sub>
 
 </div>
 
@@ -50,14 +50,15 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,343 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**12,284 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Bilingual Branch Manager – Banking / Credit Union | Americaatwork | Philadelphia, PA |  | 2026-11-22 | [Apply](https://jobs.lever.co/americaatwork/ea2feb9c-fb64-4048-9bd9-64ad2b37fa63) |
+| Accounts Payable Specialist | Weekday AI | Seward, Nebraska, US |  | 2026-11-21 | [Apply](https://apply.workable.com/j/B29C3D830C) |
 | Senior Finance Analyst | bydeluxe | IN-KA-Bangalore |  | 2026-11-21 | [Apply](https://bydeluxe.wd5.myworkdayjobs.com/en-US/deluxe_external/job/IN-KA-Bangalore/Senior-Finance-Analyst_R0016521) |
 | Government Proposal Financial Analyst (Level II and Senior) | woodward | 5 Locations |  | 2026-11-21 | [Apply](https://woodward.wd5.myworkdayjobs.com/en-US/woodward/job/Spartanburg-SC-US/Government-Proposal-Financial-Analyst--Level-II-and-Senior-_JR114634) |
-| Experienced Tax Staff | singerlewak | Las Vegas, Nevada |  | 2026-11-21 | [Apply](https://jobs.lever.co/singerlewak/b45d7873-d839-4ec2-80b8-fbe811e37af7) |
 | Financial Analyst | astound | 12 Locations |  | 2026-11-21 | [Apply](https://astound.wd108.myworkdayjobs.com/en-US/astound_careers/job/NJ-CollegeRdPrinceton/Financial-Analyst_JR-000898) |
 | Senior Financial Analyst | Ford Motor Company | Long Beach, CA, United States |  | 2026-11-21 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74187) |
 | Accounting Assistant, Senior | wacounty | Hillsboro, OR |  | 2026-11-21 | [Apply](https://wacounty.wd12.myworkdayjobs.com/en-US/careers/job/Hillsboro-OR/Accounting-Assistant--Senior_R641) |
@@ -81,6 +82,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Operations Finance Controller | thales | Orlando - Discovery Drive |  | 2026-11-21 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Orlando---Discovery-Drive/Operations-Finance-Controller_R0348676-2) |
 | Senior Auditor - Wealth Management & Institutional Services Products | U.S. Bank | 3 Locations |  | 2026-11-21 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Milwaukee-WI/Senior-Auditor---Wealth-Management---Institutional-Services-Products_2026-0036236) |
 | Fund Accountant (multiple levels) | U.S. Bank | 4 Locations |  | 2026-11-21 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Tempe-AZ/Fund-Accountant--multiple-levels-_2026-0036053) |
+| Accounts Payable Administrator | New York City Housing Development Corporation | New York, NY, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nychdc/job/o8a8AfwK) |
 | Accounts Payable Clerk (Life) | Security National Financial Corporation | Murray, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682937) |
 | Treasury Management Specialist | Charlesbridge | MA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674324) |
 | Plant Accountant (Fixed Assets) | Furlani Foods LLC | Furlani Foods, LLC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683975) |
@@ -115,7 +117,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounts Payable Clerk | Union Bank | Morrisville, VT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4653300) |
 | Senior Financial Analyst | Catholic Diocese of Memphis | Memphis, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680403) |
 | VICE PRESIDENT, FINANCIAL PLANNING & ANALYSIS (FP&A) | Plaza Hotel & Casino LLC | Las Vegas, NV |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670616) |
-| Accounts Receivable Assistant - Irvine | Actionlife | Irvine, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/actionlife/82b25fa8-5384-4215-b1d6-f34344a13350) |
 | Reinsurance Accounting Manager | Builders Mutual | Remote, NC, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/buildersmutual/job/oXa8Afwz) |
 | Accountant | Cascadia Services, LLC | Eagle, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683354) |
 | Staff Accountant | Island Hospitality Management | West Palm Beach, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681858) |
@@ -204,7 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Senior Financial Planning Analyst | alliancedefendingfreedom | Dallas, TX |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5491104008?gh_jid=5491104008) |
 | Associate Director, Finance, Immunology Forecasting | AbbVie | Mettawa, IL, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017007356) |
 | Director, Revenue Accounting | 6sense | United States, Remote |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/6sense/jobs/8403283?gh_jid=8403283) |
-| Financial Analyst | basecamp | Minneapolis, MN - Hybrid |  | 2026-11-20 | [Apply](https://basecamp.wd1.myworkdayjobs.com/en-US/ecmc/job/Minneapolis-MN---Hybrid/Financial-Analyst_R4996) |
 <!-- JOBS_TABLE_END -->
 
 <details>
