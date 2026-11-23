@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,228</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,301</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,18 +50,21 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,228 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**12,301 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Tax Senior Associate - NorCal Private Wealth | bakertilly | 2 Locations |  | 2026-11-23 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-CA-San-Francisco-50-Fremont-St/Tax-Senior-Associate---NorCal-Private-Wealth_JR109095) |
 | Accountant I | nc | Wake County, NC |  | 2026-11-23 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Accountant-I_JR-128747) |
 | Public Finance Analyst Summer Internship Program 2028 New York | barclays | New York, 745 7th Avenue |  | 2026-11-23 | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/New-York-745-7th-Avenue/Public-Finance-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139048) |
 | Internship - Finance Analyst | asml | Wilton, CT, USA |  | 2026-11-23 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Finance-Analyst_J-00358071) |
 | Corporate Accounting Manager | Exa | San Francisco, California |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/exa/c89b0b4b-67ea-47d1-98ee-349bd733dcdc) |
 | Finance & Structuring Associate / Competitive Generation Infrastructure Solutio... | aep | Columbus, OH |  | 2026-11-23 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Columbus-OH/Finance---Structuring-Associate---Competitive-Generation-Infrastructure-Solutions_R21173) |
+| Bilingual Branch Manager – Banking / Credit Union | Americaatwork | Philadelphia, PA |  | 2026-11-22 | [Apply](https://jobs.lever.co/americaatwork/ea2feb9c-fb64-4048-9bd9-64ad2b37fa63) |
 | Senior Finance Analyst | bydeluxe | IN-KA-Bangalore |  | 2026-11-21 | [Apply](https://bydeluxe.wd5.myworkdayjobs.com/en-US/deluxe_external/job/IN-KA-Bangalore/Senior-Finance-Analyst_R0016521) |
 | Government Proposal Financial Analyst (Level II and Senior) | woodward | 5 Locations |  | 2026-11-21 | [Apply](https://woodward.wd5.myworkdayjobs.com/en-US/woodward/job/Spartanburg-SC-US/Government-Proposal-Financial-Analyst--Level-II-and-Senior-_JR114634) |
+| Experienced Tax Staff | singerlewak | Las Vegas, Nevada |  | 2026-11-21 | [Apply](https://jobs.lever.co/singerlewak/b45d7873-d839-4ec2-80b8-fbe811e37af7) |
 | Financial Analyst | astound | 12 Locations |  | 2026-11-21 | [Apply](https://astound.wd108.myworkdayjobs.com/en-US/astound_careers/job/NJ-CollegeRdPrinceton/Financial-Analyst_JR-000898) |
 | Senior Financial Analyst | Ford Motor Company | Long Beach, CA, United States |  | 2026-11-21 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74187) |
 | Accounting Assistant, Senior | wacounty | Hillsboro, OR |  | 2026-11-21 | [Apply](https://wacounty.wd12.myworkdayjobs.com/en-US/careers/job/Hillsboro-OR/Accounting-Assistant--Senior_R641) |
@@ -111,7 +114,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounts Receivable Manager | Bakerly | Easton, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667785) |
 | Project Accountant | MODERNCONTROLS LLC. | New Castle, DE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4657946) |
 | Senior Accountant | Shodair | Helena, MT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681274) |
-| Payroll Tax Corrections & Amendments Specialist | restaurant365 | Irvine, CA, Austin, TX, San Francisco Bay Area, CA, Denver, CO |  | 2026-11-20 | [Apply](https://jobs.lever.co/restaurant365/1214c78b-6188-4fe2-b4e9-7796dd53bf2b) |
 | Supervisor, Payroll | AAR | United States |  | 2026-11-20 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=19045&lang=en) |
 | Sr. Financial Analyst | Rheem | Atlanta, GA, United States |  | 2026-11-20 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4613) |
 | Investment Banking Associate I Corporate Finance - Technology (San Francisco) | Citizens Financial Group | San Francisco, CA, United States |  | 2026-11-20 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50559) |
@@ -125,12 +127,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounts Payable Clerk | Union Bank | Morrisville, VT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4653300) |
 | Senior Financial Analyst | Catholic Diocese of Memphis | Memphis, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680403) |
 | VICE PRESIDENT, FINANCIAL PLANNING & ANALYSIS (FP&A) | Plaza Hotel & Casino LLC | Las Vegas, NV |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670616) |
-| Accounts Receivable Assistant - Irvine | Actionlife | Irvine, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/actionlife/82b25fa8-5384-4215-b1d6-f34344a13350) |
 | Reinsurance Accounting Manager | Builders Mutual | Remote, NC, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/buildersmutual/job/oXa8Afwz) |
 | Accountant | Cascadia Services, LLC | Eagle, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683354) |
 | Staff Accountant | Island Hospitality Management | West Palm Beach, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681858) |
 | Billing Specialist | Aria Care Partners | Overland Park, KS |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683707) |
 | Billing Specialist II | Fora Health Inc | Portland, OR |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678636) |
+| Treasury Coordinator | Enterprise Electrical | Houston, Texas, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/3FEC4C7542) |
 | Sr. Accountant II | Uber Freight | Dallas, TX 75226, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5482092008) |
 | Senior FP&A and Treasury Manager / Remote or Hybrid | US Signal | Remote Worker - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683046) |
 | Financial Analyst (FP&A) | LayerZero Power Systems, LLC. | Streetsboro, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4517362) |
@@ -200,11 +202,9 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Senior Managing Director- Private Equity and Hedge Fund Accounting (CFO Service... | IQ-EQ | Iselin, New Jersey, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/IQEQ/744000162779400) |
 | Manager, Finance, Accounting & Analysis | globalenergyallianceforpeopleandplanetgeappl... | New York City or Washington, DC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/globalenergyallianceforpeopleandplanetgeappllc/jobs/5301699007) |
 | Finance Associate, Site Selection & Development | generalmatter | Los Angeles, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5489891008) |
-| Senior Accountant | ethena | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/ethena/b0f82e45-d42a-4299-9f92-7c946e05ff88) |
 | Senior Manager, Revenue Accounting | druva | Santa Clara, CA |  | 2026-11-20 | [Apply](https://www.druva.com/why-druva/explore/careers/jobs/8941729002/?gh_jid=8941729002) |
 | Project Accountant | domeconstruction | San Francisco Bay Area |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/domeconstruction/jobs/6255684004) |
 | Senior SEC Reporting Accountant | Coinbase | Remote - USA |  | 2026-11-20 | [Apply](https://www.coinbase.com/careers/positions/8406680?gh_jid=8406680) |
-| Senior FP&A Analyst | clearlinktechnologiesllc | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/clearlinktechnologiesllc/jobs/4729974006) |
 <!-- JOBS_TABLE_END -->
 
 <details>
