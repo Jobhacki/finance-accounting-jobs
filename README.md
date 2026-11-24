@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,410</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,581</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 04:18 UTC</sub>
+<sub>Snapshot 2026-11-24 08:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,410 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 04:18 UTC.** Apply links go to the employer's career page or hiring system.
+**12,581 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Tax Senior Manager- Individual Tax Services | bakertilly | 2 Locations |  | 2026-11-24 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-NY-New-York-City-66-Hudson-Blvd-E/Tax-Senior-Manager--Individual-Tax-Services_JR109114) |
 | Accounts Receivable Processor 2 | zenithamerican | Dallas |  | 2026-11-24 | [Apply](https://zenithamerican.wd5.myworkdayjobs.com/en-US/zas/job/Dallas/Accounts-Receivable-Processor-2_JR101228) |
 | Director, Finance and Performance Management | centene | Remote-MO |  | 2026-11-24 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Director--Finance-and-Performance-Management_1677684) |
 | Principal Accountant | att | Dallas, Texas |  | 2026-11-24 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Dallas-Texas/Principal-Accountant_R-129087) |
@@ -80,13 +81,13 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Tax Manager | cat | 3 Locations |  | 2026-11-24 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/USA---TX---Irving---Walnut-Hill/Tax-Manager_R0000406922) |
 | Senior Director, Finance Data Center Neoclouds | NVIDIA | US, CA, Santa Clara |  | 2026-11-24 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Finance-Data-Center-Neoclouds_JR2030456) |
 | Financial Analyst Intern - Minneapolis, MN (Starting Summer, 2027) | Target | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | 2026-11-24 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574) |
+| Corporate Controller | FOUTS BROTHERS INC | Milledgeville, GA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4659201) |
+| Director of Finance | Alma del Mar Charter School | New Bedford, MA |  | 2026-11-23 | [Apply](https://alma-del-mar-charter-school.breezy.hr/p/4ea4983f898b-director-of-finance) |
+| Manager, State and Local Tax | Aprio | Atlanta, GA |  | 2026-11-23 | [Apply](https://jobs.lever.co/Aprio/eb6b5c51-2dca-43d3-a2ff-e9a6ec687a17) |
+| U.S. Financial Controller | Crypto.com | Chicago,IL |  | 2026-11-23 | [Apply](https://jobs.lever.co/crypto/6fd7116b-ee7e-401c-9b22-4f0ddbc2747a) |
+| Accounting Manager, M&A | crosscountry-consulting | McLean, VA |  | 2026-11-23 | [Apply](https://jobs.lever.co/crosscountry-consulting/4e5612a4-7be1-4085-aa62-cf0732b26c59) |
 | Accounts Receivable (AR) Financial Analyst | JTEKT Autotech Corporation | Bronson, MI |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685757) |
 | Payroll Supervisor (Payroll) | Martignetti Companies | Taunton, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669431) |
-| Sr Staff Accountant | ADP employer 08f195f0 | USA - Virtual, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=08f195f0-beb6-4255-a019-dbc8691ab8e8&ccId=19000101_000001&jobId=592886&lang=en_US&source=CC2) |
-| Accountant-Payroll Administration | ADP employer 040dd111 | Carson City, NV, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=040dd111-4533-49bd-a969-c5a896ca077b&ccId=19000101_000001&jobId=593498&lang=en_US&source=CC2) |
-| Senior Manager, Financial Planning and Analysis | OrganOx | Madison, New Jersey, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/0A862FAEDA) |
-| Corporate Controller | computercare | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/computercare/e8098d0d-4732-488f-9d5d-ca0425d35d22) |
-| Tax Manager | primee | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/primee/f748ba96-6a1f-47aa-b2b8-67cb6398b606) |
 | Project Finance & Infrastructure - Director (NY) | krollbondratingagency | New York, New York, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/krollbondratingagency/jobs/8952797002) |
 | Manager, Fraud | arenaclub | Los Angeles, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/arenaclub/jobs/4519844009) |
 | Plant Finance & Cost Accounting Manager | 1440 Foods Manufacturing | Jeffersonville, IN |  | 2026-11-23 | [Apply](https://1440-foods-manufacturing.breezy.hr/p/29b26ff79278-plant-finance-cost-accounting-manager) |
@@ -199,10 +200,9 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Internship - Finance Analyst | asml | Wilton, CT, USA |  | 2026-11-23 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Finance-Analyst_J-00358071) |
 | Corporate Accounting Manager | Exa | San Francisco, California |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/exa/c89b0b4b-67ea-47d1-98ee-349bd733dcdc) |
 | Finance & Structuring Associate / Competitive Generation Infrastructure Solutio... | aep | Columbus, OH |  | 2026-11-23 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Columbus-OH/Finance---Structuring-Associate---Competitive-Generation-Infrastructure-Solutions_R21173) |
-| Bilingual Branch Manager – Banking / Credit Union | Americaatwork | Philadelphia, PA |  | 2026-11-22 | [Apply](https://jobs.lever.co/americaatwork/ea2feb9c-fb64-4048-9bd9-64ad2b37fa63) |
-| FP&A Analyst | WAI | Charlotte, NC, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=014dfa20-d261-4f83-8d77-5edb4e15f0f8&ccId=19000101_000001&jobId=599636&lang=en_US&source=CC2) |
 | Senior Finance Analyst | bydeluxe | IN-KA-Bangalore |  | 2026-11-21 | [Apply](https://bydeluxe.wd5.myworkdayjobs.com/en-US/deluxe_external/job/IN-KA-Bangalore/Senior-Finance-Analyst_R0016521) |
 | Government Proposal Financial Analyst (Level II and Senior) | woodward | 5 Locations |  | 2026-11-21 | [Apply](https://woodward.wd5.myworkdayjobs.com/en-US/woodward/job/Spartanburg-SC-US/Government-Proposal-Financial-Analyst--Level-II-and-Senior-_JR114634) |
+| Experienced Tax Staff | singerlewak | Las Vegas, Nevada |  | 2026-11-21 | [Apply](https://jobs.lever.co/singerlewak/b45d7873-d839-4ec2-80b8-fbe811e37af7) |
 | Financial Analyst | astound | 12 Locations |  | 2026-11-21 | [Apply](https://astound.wd108.myworkdayjobs.com/en-US/astound_careers/job/NJ-CollegeRdPrinceton/Financial-Analyst_JR-000898) |
 | Senior Financial Analyst | Ford Motor Company | Long Beach, CA, United States |  | 2026-11-21 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74187) |
 <!-- JOBS_TABLE_END -->
