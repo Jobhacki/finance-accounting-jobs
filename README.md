@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-finance-accounting-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-finance-accounting-jobs-light.svg"><img alt="Finance and accounting jobs: JobHacki job list, last updated on Nov 24, 2026" src="assets/dist/hero-finance-accounting-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-finance-accounting-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-finance-accounting-jobs-light.svg"><img alt="Finance and accounting jobs: JobHacki job list, last updated on Nov 25, 2026" src="assets/dist/hero-finance-accounting-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,836</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,680</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 23:07 UTC</sub>
+<sub>Snapshot 2026-11-25 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Accountants, analysts and finance professionals, explore a fresh slice of finance and accounting jobs taken from employers' own hiring systems. Updated Nov 24, 2026.
+Accountants, analysts and finance professionals, explore a fresh slice of finance and accounting jobs taken from employers' own hiring systems. Updated Nov 25, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,11 +50,24 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,836 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 23:07 UTC.** Apply links go to the employer's career page or hiring system.
+**12,680 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Workday PSA Project Billing Specialist - Contract | HED | Los Angeles, CA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=73f568d7-f300-4c97-af4c-df2862da5316&ccId=19000101_000001&jobId=571549&lang=en_US&source=CC2) |
+| Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
+| Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Accountant | Jet Linx Aviation | Omaha, NE, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/jetlinx/job/oQR8Afw9) |
+| Accounting Manager (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691882) |
+| Client Accountant (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691929) |
+| Director of Accounting Operations | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691967) |
+| Sr. Accounting Analyst – Technical Operations | ADP employer 6ad752d0 | Miami, FL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6ad752d0-c351-4566-8bab-f4d900fc65c3&ccId=19000101_000001&jobId=570188&lang=en_US&source=CC2) |
+| Senior Manager, Finance | sambanovasystems | San Jose, California, United States |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270757004) |
+| Senior Financial Analyst | sambanovasystems | San Jose, California, United States |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270758004) |
+| Manager, Labor Finance | nflcareers | New York, New York, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/nflcareers/jobs/5492177008) |
+| Controller | herselfhealth | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/herselfhealth/jobs/4732137006) |
+| Senior Accountant | INFICON2 | East Syracuse, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/INFICON2/744000163558409) |
 | ACCOUNTING SUPERVISOR | JBS USA | Plainwell, MI, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/jbs/job/ocU8Afwy) |
 | Accountant- Regal Wine Co. | Regal Wine Company | Santa Rosa, CA, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/jacksonfamilywines/job/omg8Afw4) |
 | Senior Accountant | DwyerOmega | Michigan City, IN |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4526884) |
@@ -68,9 +81,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Financial Analyst | U.S. Bank | Saint Paul, MN |  | 2026-11-24 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/Financial-Analyst_2026-0036587) |
 | Hotel Staff Accountant & Payroll Specialist | urschellaboratoriesinc | Valparaiso, IN |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/urschellaboratoriesinc/jobs/4522952009) |
 | Corporate Controller | Solidigm | San Jose, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000163557349) |
-| Tax Senior Manager -Chinese -English Bilingual | singerlewak | South San Francisco, California |  | 2026-11-24 | [Apply](https://jobs.lever.co/singerlewak/cf96b4b2-5634-4b7a-bee1-a426e7b7a8f9) |
-| Tax Director - Chinese-English Bilingual | singerlewak | South San Francisco, California |  | 2026-11-24 | [Apply](https://jobs.lever.co/singerlewak/2194a748-56ba-4965-b5d9-71c3e16f3f08) |
-| Tax Director | singerlewak | South San Francisco, California |  | 2026-11-24 | [Apply](https://jobs.lever.co/singerlewak/94eb3534-4e99-4e25-9958-cc8e1c1ed435) |
 | Staff Accountant II (Wholesale) | isccareers | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/isccareers/jobs/4757514005) |
 | Sr. Manager, Corporate FP&A | homemarketfoods | Norwood, MA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/homemarketfoods/jobs/5308764007) |
 | Sr Analyst Credit Management-Billing-Master Data-Cash App | fanaticscommerce | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fanaticscommerce/jobs/4516773009) |
@@ -98,7 +108,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Sr Financial Analyst | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017074006) |
 | Director, Revenue Accounting | housecall | United States |  | 2026-11-24 | [Apply](https://www.housecallpro.com/careers/open-positions/?gh_jid=6270433004) |
 | Accounting Manager | customerio | Americas Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/8415048) |
-| Staff Accountant - Cash | lambda | San Jose Office (First St) |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/Lambda/f96f6d9b-ed54-46ae-ad65-bf01fd3404b3) |
+| Staff Accountant - Cash | lambda | San Jose Office (First St) | $79k-105k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/Lambda/f96f6d9b-ed54-46ae-ad65-bf01fd3404b3) |
 | Associate Director, Controller | ascidiantherapeutics | Boston, MA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/ascidiantherapeutics/jobs/6270577004) |
 | Accounts Payable Manager | cohere | United States | CAD 200k-240k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/cohere/03cd844a-ab8d-42f0-b1f6-4b933ee7859e) |
 | Senior Finance Associate, Shipbuilding | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5307615007?gh_jid=5307615007) |
@@ -120,7 +130,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounts Receivable Specialist | wexinc | US - Remote |  | 2026-11-24 | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Accounts-Receivable-Specialist_R23421) |
 | Finance Transformation Analyst Lead | associatedbank | 3 Locations |  | 2026-11-24 | [Apply](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/WI-Green-Bay/Finance-Transformation-Analyst-Lead_JR106883) |
 | Payroll Coordinator | slrconsulting | Remote, USA |  | 2026-11-24 | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/slrcareers/job/Remote-USA/Payroll-Coordinator_JR102819) |
-| Severance Tax Manager | bakertilly | 3 Locations |  | 2026-11-24 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-TX-Houston-500-Dallas-St/Severance-Tax-Manager_JR109110) |
 | Payroll Counselor | ace | Costa Mesa, CA |  | 2026-11-24 | [Apply](https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Payroll-Counselor_JR202640643) |
 | Enrollment/Billing Senior Representative - Remote | cigna | United States Work at Home |  | 2026-11-24 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Enrollment-Billing-Senior-Representative---Remote_26014252) |
 | Senior Business Analyst - Professional Billing | bmc | Remote |  | 2026-11-24 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Remote/Business-Analyst---Professional-Billing_49748-1) |
@@ -177,6 +186,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Industrial Controller | bakerhughes | US-TX-HOUSTON-575 N. DAIRY ASHFORD RD, ENERGY CENTER II EC2 |  | 2026-11-24 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Industrial-Controller_R171915) |
 | Staff Auditor I - Financial Audit Division | nc | Forsyth County, NC |  | 2026-11-24 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Forsyth-County-NC/Staff-Auditor-I---Financial-Audit-Division_JR-129305) |
 | Manager, Accounting | Travelers | CT - Hartford |  | 2026-11-24 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Manager--Accounting_R-53881) |
+| Accounting Specialist | cogentanalytics | Schwenksville, PA |  | 2026-11-24 | [Apply](https://jobs.lever.co/cogentanalytics/be299cdb-2127-487d-ba04-ce670f584f7f) |
 | Director, Accounting & Financial Planning | umt | Brooklyn, NY |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/umt/jobs/8960166002) |
 | Senior Manager, Client Accounting Services | schneiderdowns | Columbus, Ohio, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/schneiderdowns/jobs/4519197009) |
 | Accounts Receivable & Credit Manager – Americas | VusionGroupSA | Dallas, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VusionGroupSA/744000163491439) |
@@ -195,16 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Senior Associate, Strategic Finance | careaccess | USA Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/careaccess/jobs/4519635009) |
 | Financial Planning and Analysis Director | astronomer | San Francisco or New York (Hybrid) |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/astronomer/1777b2a7-9730-49df-892c-bbfc9a60bd74) |
 | Associate, Project Finance | aes | 2 Locations |  | 2026-11-24 | [Apply](https://aes.wd1.myworkdayjobs.com/en-US/aes_us/job/US-Salt-Lake-City-UT/Associate--Project-Finance_R1065189-1) |
-| Payroll Coordinator | Harvard University | Boston, MA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017052586) |
-| Supervisor of the Payroll Funding, Certification and ACH Unit (PFCAU) | City of New York | New York City, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054016) |
-| Accountant (Part-Time) | City of New York | New York City, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054496) |
-| Payroll Funding College Aide | City of New York | New York City, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054536) |
-| Accounts Receivable Processor 2 | zenithamerican | Dallas |  | 2026-11-24 | [Apply](https://zenithamerican.wd5.myworkdayjobs.com/en-US/zas/job/Dallas/Accounts-Receivable-Processor-2_JR101228) |
-| Director, Finance and Performance Management | centene | Remote-MO |  | 2026-11-24 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Director--Finance-and-Performance-Management_1677684) |
-| Principal Accountant | att | Dallas, Texas |  | 2026-11-24 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Dallas-Texas/Principal-Accountant_R-129087) |
-| Markets FP&A Head - Managing Director | Citi | New York New York United States |  | 2026-11-24 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets-FP-A-Head---Managing-Director_261009462) |
-| Accounting Professional? Discover a new career in SaaS Sales with Xero | xero | US: Denver (1615 Platte St Suite 200) |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/xero/bd717045-da78-4bdf-8558-5b6353dce4e7) |
-| Director - Global Accounting, Reporting & Treasury | rivianvw.tech | Palo Alto, California |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e070244f-3300-4955-9d8f-dfe54c747f32) |
 <!-- JOBS_TABLE_END -->
 
 <details>
