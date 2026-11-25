@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,680</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>13,017</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 00:18 UTC</sub>
+<sub>Snapshot 2026-11-25 04:17 UTC</sub>
 
 </div>
 
@@ -50,19 +50,32 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,680 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**13,017 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Workday PSA Project Billing Specialist - Contract | HED | Los Angeles, CA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=73f568d7-f300-4c97-af4c-df2862da5316&ccId=19000101_000001&jobId=571549&lang=en_US&source=CC2) |
+| Accounting Manager | ci | US-FL-Miami-830 Brickell-4800 |  | 2026-11-25 | [Apply](https://ci.wd3.myworkdayjobs.com/en-US/corient_external_career-site/job/US-FL-Miami-830-Brickell-4800/Accounting-Manager_JR6706) |
+| Tax Director, Privately Held Business | armaninollp | 2 Locations |  | 2026-11-25 | [Apply](https://armaninollp.wd1.myworkdayjobs.com/en-US/armanino/job/New-York-City-New-York-Madison-Ave/Tax-Director--Privately-Held-Business_JR104592) |
+| Accounting and Finance Intern | bannerhealth | Remote Arizona |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Remote-Arizona/Accounting-and-Finance-Intern_R4458595) |
+| Universal Studios Hollywood, Finance & Strategy Internship – Summer 2027 | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163603019) |
+| Associate Director of Finance | Harvard University | Boston, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017079946) |
+| Accounting Manager / Sr. Manager | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/d88abbcc-40ff-470e-b368-c0446b4f0243) |
+| Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Entry-Level Accountant | Arbors Management Inc. | Monroeville, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676647) |
+| Senior Financial Analyst | ADP employer 871d089f | Houston, TX, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=871d089f-05e3-40e7-b9fc-9f432c673422&ccId=19000101_000001&jobId=526356&lang=en_US&source=CC2) |
+| Accounting - Cash Applications Specialist | ADP employer 84e273be | Corporate, Pearland, TX, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=84e273be-5812-432d-94fb-538c18a79308&ccId=19000101_000001&jobId=522424&lang=en_US&source=CC2) |
+| FP&A Manager, Operations | PlayStation Global | USA-Remote Based |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6270771004) |
+| Manager, Financial Reporting | liftoff | Pacific Time Zone (Remote) |  | 2026-11-24 | [Apply](https://liftoff.io/job/8415756?gh_jid=8415756) |
+| Staff Accountant | ghj | San Dimas, CA |  | 2026-11-24 | [Apply](https://jobs.lever.co/ghj/b4fe324d-6f88-44e2-86b1-166eaccf3bbb) |
+| Staff Accountant | ghj | Orange, CA |  | 2026-11-24 | [Apply](https://jobs.lever.co/ghj/a59858c9-e582-498f-a62b-15f05b3710dc) |
+| Senior Accounting Analyst | ghj | Westwood, CA |  | 2026-11-24 | [Apply](https://jobs.lever.co/ghj/493c5d29-efb0-4716-abeb-0303d497a2ce) |
 | Accountant | Jet Linx Aviation | Omaha, NE, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/jetlinx/job/oQR8Afw9) |
 | Accounting Manager (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691882) |
 | Client Accountant (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691929) |
 | Director of Accounting Operations | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691967) |
-| Sr. Accounting Analyst – Technical Operations | ADP employer 6ad752d0 | Miami, FL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6ad752d0-c351-4566-8bab-f4d900fc65c3&ccId=19000101_000001&jobId=570188&lang=en_US&source=CC2) |
 | Senior Manager, Finance | sambanovasystems | San Jose, California, United States |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270757004) |
 | Senior Financial Analyst | sambanovasystems | San Jose, California, United States |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270758004) |
 | Manager, Labor Finance | nflcareers | New York, New York, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/nflcareers/jobs/5492177008) |
@@ -85,7 +98,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Sr. Manager, Corporate FP&A | homemarketfoods | Norwood, MA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/homemarketfoods/jobs/5308764007) |
 | Sr Analyst Credit Management-Billing-Master Data-Cash App | fanaticscommerce | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fanaticscommerce/jobs/4516773009) |
 | VP Tax | Elastic | United States |  | 2026-11-24 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8412811&gh_jid=8412811) |
-| Strategic Finance Director | payzen-inc | San Francisco HQ |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/payzen-inc/6330ab6b-8418-4901-a1e4-3761b16bc4d5) |
+| Strategic Finance Director | payzen-inc | San Francisco HQ | $190k-225k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/payzen-inc/6330ab6b-8418-4901-a1e4-3761b16bc4d5) |
 | SEC Reporting and Equity Accounting Manager | Asana | San Francisco |  | 2026-11-24 | [Apply](https://www.asana.com/jobs/apply/8386666?gh_jid=8386666) |
 | Finance Manager, Entity and Financial Planning & Analysis | AbbVie | North Chicago, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017077026) |
 | Finance Senior Manager, Financial Planning & Analysis | AbbVie | North Chicago, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017077216) |
@@ -161,7 +174,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Senior Manager, Accounts Payable | dragos | United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5476474008) |
 | Senior Manager, Payroll Operations | wrapbook | Remote - US & Canada |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/wrapbook/47d24533-8483-4da1-97e4-326b4d26e8aa) |
 | Tax Auditor-Appraiser - Office of the Assessor-Recorder (4220) | City and County of San Francisco | San Francisco, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017068606) |
-| Accountant | Pocket | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/pocket/df57b082-a3bb-4159-9d95-b8389b7e343d) |
+| Accountant | Pocket | San Francisco | $120k-140k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/pocket/df57b082-a3bb-4159-9d95-b8389b7e343d) |
 | Accounts Payable Specialist | chariotdefense | San Bruno, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/chariotdefense/jobs/5493709008) |
 | Accountant Gaming Revenue Audit | BoydGaming | Las Vegas, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/BoydGaming/3743990017071876) |
 | Project Controller | BEUMERGroup1 | Somerset, New Jersey, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163512282) |
@@ -186,25 +199,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Industrial Controller | bakerhughes | US-TX-HOUSTON-575 N. DAIRY ASHFORD RD, ENERGY CENTER II EC2 |  | 2026-11-24 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Industrial-Controller_R171915) |
 | Staff Auditor I - Financial Audit Division | nc | Forsyth County, NC |  | 2026-11-24 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Forsyth-County-NC/Staff-Auditor-I---Financial-Audit-Division_JR-129305) |
 | Manager, Accounting | Travelers | CT - Hartford |  | 2026-11-24 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Manager--Accounting_R-53881) |
-| Accounting Specialist | cogentanalytics | Schwenksville, PA |  | 2026-11-24 | [Apply](https://jobs.lever.co/cogentanalytics/be299cdb-2127-487d-ba04-ce670f584f7f) |
 | Director, Accounting & Financial Planning | umt | Brooklyn, NY |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/umt/jobs/8960166002) |
 | Senior Manager, Client Accounting Services | schneiderdowns | Columbus, Ohio, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/schneiderdowns/jobs/4519197009) |
 | Accounts Receivable & Credit Manager – Americas | VusionGroupSA | Dallas, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VusionGroupSA/744000163491439) |
 | Accounting Operation Manager – Americas | VusionGroupSA | Dallas, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VusionGroupSA/744000163491482) |
 | Risk and Controls Lead - SOX, ICFR- W2 position | Syncreon Consulting | Pittsburgh, PA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163493869) |
 | Payroll Specialist | Smiths Group | Elmwood Park, NJ, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000163457649) |
-| Accounting Manager | lydech | Novi, Michigan |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/lydech/jobs/8413917) |
-| Senior Manager, Technical Revenue Accounting | HubSpot | Cambridge, MA, USA |  | 2026-11-24 | [Apply](https://www.hubspot.com/careers/jobs/8386069?gh_jid=8386069) |
-| Senior Manager, Revenue Accounting - Operations | HubSpot | Cambridge, MA, USA |  | 2026-11-24 | [Apply](https://www.hubspot.com/careers/jobs/8386067?gh_jid=8386067) |
-| Pricing Analyst | InternationalSOSGovernmentMedicalServices | Houston, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/InternationalSOSGovernmentMedicalServices/744000163467409) |
-| Senior Payroll Specialist | fetch | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4520386009) |
-| Director of Finance | CustomizedEnergySolutions | Philadelphia, PA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CustomizedEnergySolutions/744000163467264) |
-| Senior Financial Analyst (Profitability) | Cricut | South Jordan, UT, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Cricut/744000163493122) |
-| Assistant City Solicitor – Commercial Law Unit – Pensions and Finance Division | City of Philadelphia | Philadelphia, PA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000163467830) |
-| Director of Treasury | Rogo | New York City |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/Rogo/8583df44-e294-4c32-af7e-4323b4002666) |
-| Senior Associate, Strategic Finance | careaccess | USA Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/careaccess/jobs/4519635009) |
-| Financial Planning and Analysis Director | astronomer | San Francisco or New York (Hybrid) |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/astronomer/1777b2a7-9730-49df-892c-bbfc9a60bd74) |
-| Associate, Project Finance | aes | 2 Locations |  | 2026-11-24 | [Apply](https://aes.wd1.myworkdayjobs.com/en-US/aes_us/job/US-Salt-Lake-City-UT/Associate--Project-Finance_R1065189-1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
