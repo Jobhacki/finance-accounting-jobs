@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>13,017</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,982</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 04:17 UTC</sub>
+<sub>Snapshot 2026-11-25 08:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**13,017 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**12,982 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Finance Director | lonza | IN - Haryana |  | 2026-11-25 | [Apply](https://lonza.wd3.myworkdayjobs.com/en-US/lonza_careers/job/IN---Haryana/Finance-Director_R80345) |
 | Accounting Manager | ci | US-FL-Miami-830 Brickell-4800 |  | 2026-11-25 | [Apply](https://ci.wd3.myworkdayjobs.com/en-US/corient_external_career-site/job/US-FL-Miami-830-Brickell-4800/Accounting-Manager_JR6706) |
 | Tax Director, Privately Held Business | armaninollp | 2 Locations |  | 2026-11-25 | [Apply](https://armaninollp.wd1.myworkdayjobs.com/en-US/armanino/job/New-York-City-New-York-Madison-Ave/Tax-Director--Privately-Held-Business_JR104592) |
 | Accounting and Finance Intern | bannerhealth | Remote Arizona |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Remote-Arizona/Accounting-and-Finance-Intern_R4458595) |
@@ -64,14 +65,10 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Senior Accountant, Consolidations & Intercompany Accounting | ADP employer 8d2a0f70 | Louisville, KY, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8d2a0f70-fce2-4884-8e67-b54237b33e87&ccId=19000101_000001&jobId=614555&lang=en_US&source=CC2) |
 | Entry-Level Accountant | Arbors Management Inc. | Monroeville, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676647) |
-| Senior Financial Analyst | ADP employer 871d089f | Houston, TX, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=871d089f-05e3-40e7-b9fc-9f432c673422&ccId=19000101_000001&jobId=526356&lang=en_US&source=CC2) |
-| Accounting - Cash Applications Specialist | ADP employer 84e273be | Corporate, Pearland, TX, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=84e273be-5812-432d-94fb-538c18a79308&ccId=19000101_000001&jobId=522424&lang=en_US&source=CC2) |
 | FP&A Manager, Operations | PlayStation Global | USA-Remote Based |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6270771004) |
 | Manager, Financial Reporting | liftoff | Pacific Time Zone (Remote) |  | 2026-11-24 | [Apply](https://liftoff.io/job/8415756?gh_jid=8415756) |
-| Staff Accountant | ghj | San Dimas, CA |  | 2026-11-24 | [Apply](https://jobs.lever.co/ghj/b4fe324d-6f88-44e2-86b1-166eaccf3bbb) |
-| Staff Accountant | ghj | Orange, CA |  | 2026-11-24 | [Apply](https://jobs.lever.co/ghj/a59858c9-e582-498f-a62b-15f05b3710dc) |
-| Senior Accounting Analyst | ghj | Westwood, CA |  | 2026-11-24 | [Apply](https://jobs.lever.co/ghj/493c5d29-efb0-4716-abeb-0303d497a2ce) |
 | Accountant | Jet Linx Aviation | Omaha, NE, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/jetlinx/job/oQR8Afw9) |
 | Accounting Manager (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691882) |
 | Client Accountant (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691929) |
@@ -205,6 +202,9 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounting Operation Manager – Americas | VusionGroupSA | Dallas, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VusionGroupSA/744000163491482) |
 | Risk and Controls Lead - SOX, ICFR- W2 position | Syncreon Consulting | Pittsburgh, PA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163493869) |
 | Payroll Specialist | Smiths Group | Elmwood Park, NJ, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000163457649) |
+| Accounting Manager | lydech | Novi, Michigan |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/lydech/jobs/8413917) |
+| Pricing Analyst | InternationalSOSGovernmentMedicalServices | Houston, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/InternationalSOSGovernmentMedicalServices/744000163467409) |
+| Senior Payroll Specialist | fetch | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4520386009) |
 <!-- JOBS_TABLE_END -->
 
 <details>
