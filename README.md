@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,987</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,955</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 12:18 UTC</sub>
+<sub>Snapshot 2026-11-26 16:18 UTC</sub>
 
 </div>
 
@@ -50,12 +50,13 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,987 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 12:18 UTC.** Apply links go to the employer's career page or hiring system.
+**12,955 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Dental Billing Specialist | Dental Dreams | Corporate, Chicago, IL, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=057a139b-6aeb-401d-a4b5-72c6ce0c8831&ccId=19000101_000001&jobId=585878&lang=en_US&source=CC2) |
+| Mainland China Tax, Accounting & Auditing Specialist (SME) - AI Evaluator (US) | Volga Partners | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/EA6C9698EA) |
+| Client Finance Manager | monks | New York, United States |  | 2026-11-26 | [Apply](https://www.monks.com/careers/6268450004/job?gh_jid=6268450004) |
 | Accountant | maxon | Thousand Oaks, CA, United States |  | 2026-11-26 | [Apply](https://maxon.wd103.myworkdayjobs.com/en-US/maxo/job/Thousand-Oaks-CA-United-States/Accountant_JR100543) |
 | Tax Senior Manager | bakertilly | USA AZ Tempe |  | 2026-11-26 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-AZ-Tempe/Tax-Senior-Manager_JR109148-1) |
 | Tax Manager - Small Business | bakertilly | USA MN Minneapolis |  | 2026-11-26 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MN-Minneapolis/Tax-Manager---Small-Business_JR109132) |
@@ -80,7 +81,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Controller | Omnia Exterior Solutions |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694128) |
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
 | Accounts Payable | Larson Financial Holdings, LLC | Chesterfield, MO |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694760) |
-| Director, Finance Data, Reporting & AI | veeamsoftware | Remote, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5045175101) |
 | Senior Accountant | ascendhealthcare | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ascendhealthcare/jobs/5309711007) |
 | Internal Audit Senior Specialist | Wise | Austin, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Wise/744000163767669) |
 | Senior Manager, Global Inventory and Cost Accounting | revolutionmedicines | Redwood City, California, United States |  | 2026-11-25 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8217278003) |
@@ -170,6 +170,10 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Director of Finance & Administration | Big Brothers Big Sisters of New York City Inc | New York |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4278938) |
+| Senior Accountant (On-Site) | RK Logistics Group, Inc. | Hillsborough, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690944) |
+| Finance Director | RK Logistics Group, Inc. | Hillsborough, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691002) |
+| Grant Billing Specialist | TreePeople | Los Angeles, CA, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1403723f-09c5-4d05-b7d6-35a16b3aa0fe&ccId=19000101_000001&jobId=576833&lang=en_US&source=CC2) |
 | Billing Assistant (BA) | Inteli-Care LLC | Albuquerque, NM |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4541126) |
 | Sr. Accounting Financial Analyst | Power Integrations | San Jose, CA, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/power-integrations/job/oGj8Afwr) |
 | Project Accounting Supervisor, Electric Power Division | Hooper Deforest | Deforest, WI |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691137) |
@@ -201,10 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accounting Manager (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691882) |
 | Client Accountant (Remote) | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691929) |
 | Director of Accounting Operations | Atomus Partners LLC | Rochester, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691967) |
-| Senior Manager, Finance | sambanovasystems | San Jose, California, United States |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270757004) |
-| Senior Financial Analyst | sambanovasystems | San Jose, California, United States |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270758004) |
-| Manager, Labor Finance | nflcareers | New York, New York, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/nflcareers/jobs/5492177008) |
-| Controller | herselfhealth | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/herselfhealth/jobs/4732137006) |
 <!-- JOBS_TABLE_END -->
 
 <details>
