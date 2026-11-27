@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>13,020</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,865</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 04:17 UTC</sub>
+<sub>Snapshot 2026-11-27 08:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**13,020 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**12,865 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sr. Associate, Equipment Finance and Contract Management | alcon | Fort Worth, Texas |  | 2026-11-27 | [Apply](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Equipment-Finance-and-Contract-Management_R-2026-51073-1) |
 | Especialista de Consumer Finance (Tijuana B.C) | bbva | Baja California, Tijuana, 22014 |  | 2026-11-27 | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Baja-California-Tijuana-22014/Especialista-de-Consumer-Finance--Tijuana-BC-_JR00121257) |
 | Director of Treasury | Barracuda Networks Inc. | Campbell, CA, United States |  | 2026-11-26 | [Apply](https://jobs.jobvite.com/barracuda-networks-inc/job/ohV7AfwD) |
 | Tax Specialist | bakerhughes | CO-BOGOTA-CARRERA 7 NO 123-35 |  | 2026-11-26 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/CO-BOGOTA-CARRERA-7-NO-123-35/Tax-Specialist_R172049) |
@@ -81,8 +82,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Senior Manager, Payroll | Fortinet | Sunnyvale, CA, United States |  | 2026-11-25 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/25066) |
 | Financial Analyst II | Hologic | San Diego, CA, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12867) |
 | Senior Director, Finance and Accounting Advisory Services | armaninollp | 16 Locations |  | 2026-11-25 | [Apply](https://armaninollp.wd1.myworkdayjobs.com/en-US/armanino/job/Austin-Texas/Senior-Director--Finance-and-Accounting-Advisory-Services_JR104599) |
-| Senior Manager, FP&A | protolabs | Maple Plain, MN | $117k-175.6k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/protolabs/20fc763e-b38b-4251-bb23-ee322ef6aca9) |
-| Accounting Manager, Debt &Corporate | pivotenergy | Denver, Colorado | $95k-130k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/pivotenergy/c34cea7c-019d-437f-89d3-4dd698860ab3) |
 | Controller | Omnia Exterior Solutions |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694128) |
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
 | Accounts Payable | Larson Financial Holdings, LLC | Chesterfield, MO |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694760) |
@@ -182,8 +181,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Director of Finance & Administration | Big Brothers Big Sisters of New York City Inc | New York |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4278938) |
 | Senior Accountant (On-Site) | RK Logistics Group, Inc. | Hillsborough, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690944) |
 | Finance Director | RK Logistics Group, Inc. | Hillsborough, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691002) |
-| Assistant Controller | quantummetric | United States | $145k-170k/yr | 2026-11-24 | [Apply](https://jobs.lever.co/quantummetric/c09006a7-2e02-41cf-bf95-98745a4861d1) |
-| Reinsurance Accountant II - Specialty P&C | protective | Work From Home | $90k-125k/yr | 2026-11-24 | [Apply](https://jobs.lever.co/protective/9cd89950-2655-49ae-8df6-8d252547fbe7) |
 | Billing Assistant (BA) | Inteli-Care LLC | Albuquerque, NM |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4541126) |
 | Sr. Accounting Financial Analyst | Power Integrations | San Jose, CA, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/power-integrations/job/oGj8Afwr) |
 | Project Accounting Supervisor, Electric Power Division | Hooper Deforest | Deforest, WI |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691137) |
@@ -205,6 +202,9 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Supervisor, Fund Accounting - Real Assets | Citco | Dallas, TX, United States |  | 2026-11-24 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22047) |
 | Finance Associate - Level III | Cummins | Whitakers, NC, United States |  | 2026-11-24 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442269) |
 | Accounting Intern (2027 Internship Program) | DTCC | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214471) |
+| Finance Director, Operations (Diagnostics) | Hologic | San Diego, CA, United States |  | 2026-11-24 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12804) |
+| Senior Financial Analyst | Hologic | Marlborough, MA, United States |  | 2026-11-24 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12779) |
+| Controller | CSL CPAs | Sarasota, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691777) |
 <!-- JOBS_TABLE_END -->
 
 <details>
