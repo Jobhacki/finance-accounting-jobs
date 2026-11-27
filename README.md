@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,874</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,960</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 12:17 UTC</sub>
+<sub>Snapshot 2026-11-27 16:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,14 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,874 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 12:17 UTC.** Apply links go to the employer's career page or hiring system.
+**12,960 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 16:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Billing Business Analyst | elementfleet | Baltimore |  | 2026-11-27 | [Apply](https://elementfleet.wd3.myworkdayjobs.com/en-US/external_career_site/job/Baltimore/Billing-Business-Analyst_R106031) |
+| Financial Reporting Manager | Pyrotek | Spokane, WA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000164065080) |
+| Accounting Agent | Expeditors | Franklin, WI, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000164037044) |
 | Senior Associate/Analyst- GL Accounting | ashland | IN-HYDERABAD-DIVYASHREE |  | 2026-11-27 | [Apply](https://ashland.wd12.myworkdayjobs.com/en-US/ashlandcareers1/job/IN-HYDERABAD-DIVYASHREE/Senior-Associate-Analyst--GL-Accounting_2026-0686) |
 | Sr. Associate, Equipment Finance and Contract Management | alcon | Fort Worth, Texas |  | 2026-11-27 | [Apply](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Equipment-Finance-and-Contract-Management_R-2026-51073-1) |
 | Especialista de Consumer Finance (Tijuana B.C) | bbva | Baja California, Tijuana, 22014 |  | 2026-11-27 | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Baja-California-Tijuana-22014/Especialista-de-Consumer-Finance--Tijuana-BC-_JR00121257) |
@@ -175,6 +178,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Associate Director of Finance | Harvard University | Boston, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017079946) |
 | Accounting Manager / Sr. Manager | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/d88abbcc-40ff-470e-b368-c0446b4f0243) |
 | Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
+| Workday PSA Project Billing Specialist - Contract | HED | Los Angeles, CA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=73f568d7-f300-4c97-af4c-df2862da5316&ccId=19000101_000001&jobId=571549&lang=en_US&source=CC2) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
 | Federal Grants Accounting and Compliance Manager | XWELL | Remote Worker - N/A |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690621) |
@@ -201,10 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Accountant I | D.R. Horton | Austin, TX, US |  | 2026-11-24 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605882&lang=en) |
 | Financial Analyst | American Tower | Woburn, MA, United States |  | 2026-11-24 | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3105) |
 | Lead Auditor | Intertek | United States |  | 2026-11-24 | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16347) |
-| Manager, Operations FP&A | CooperSurgical | Trumbull, CT, United States |  | 2026-11-24 | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13320) |
-| Supervisor, Fund Accounting - Real Assets | Citco | Dallas, TX, United States |  | 2026-11-24 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22047) |
-| Finance Associate - Level III | Cummins | Whitakers, NC, United States |  | 2026-11-24 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442269) |
-| Accounting Intern (2027 Internship Program) | DTCC | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214471) |
 <!-- JOBS_TABLE_END -->
 
 <details>
