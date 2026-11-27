@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,960</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,808</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 16:17 UTC</sub>
+<sub>Snapshot 2026-11-27 20:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,19 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,960 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 16:17 UTC.** Apply links go to the employer's career page or hiring system.
+**12,808 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 20:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Tax Jr. Analyst | bacardi | Escazu, San Jose |  | 2026-11-27 | [Apply](https://bacardi.wd3.myworkdayjobs.com/en-US/jobs_bacardi/job/Escazu-San-Jose/Tax-Jr-Analyst_R26_02213-1) |
+| Scheduling & Billing Specialist - OP Physical Therapy - Physical Therapy Oxford... | easyservice | Cincinnati, OH |  | 2026-11-27 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/Scheduling---Billing-Specialist---OP-Physical-Therapy---Physical-Therapy-Oxford-and-WOSM-Outreach_R290959) |
+| Billing Analyst, Junior | bah | 2 Locations |  | 2026-11-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Billing-Analyst--Junior_R0254334) |
+| Business Pricing Analyst | rxsense | Remote-US |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/rxsense/jobs/4758940005) |
+| Strategic Finance Manager | Jerry | Remote | $150k-225k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/5eda8c29-89e0-4a72-9520-be1054ca3fc0) |
+| Manager, Strategic Finance | Jerry | Remote | $150k-225k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/be0f1a0f-d75e-43ac-864f-c37e0ec7c647) |
+| Finance Manager | Jerry | Remote | $150k-225k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/dc5ccc7d-e993-4204-8516-689428db9ecf) |
+| Controller | bounce | San Francisco, California |  | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Bounce/35036c5f-e798-49f0-b36a-4022e779d247) |
 | Billing Business Analyst | elementfleet | Baltimore |  | 2026-11-27 | [Apply](https://elementfleet.wd3.myworkdayjobs.com/en-US/external_career_site/job/Baltimore/Billing-Business-Analyst_R106031) |
 | Financial Reporting Manager | Pyrotek | Spokane, WA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000164065080) |
 | Accounting Agent | Expeditors | Franklin, WI, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000164037044) |
@@ -78,6 +86,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Sr. Oracle Fusion Financial Analyst | avav | 2 Locations |  | 2026-11-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Remote---Kentucky/Enterprise-Analyst--Sr---Oracle-Fusion-Finance---EPM_8401) |
 | Payroll/HR Manager | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/The-Park-In-Plano/Payroll-HR-Manager_JR191305) |
 | Senior Financial Analyst, Operations and Manufacturing | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Financial-Analyst--Operations-and-Manufacturing_JR2030264) |
+| Accounts Payable Dealership Automotive | Sam Packs Five Star Ford LTD | Farmers Branch, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693288) |
 | Billing Associate (On Site) | Acuity Eye Group | Arcadia, CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695160) |
 | Financial Analyst - Midvale (In Office) | Zions Bank | Midvale, UT, US |  | 2026-11-25 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072255&lang=en) |
 | Senior Analyst, Transformation Finance | Chubb | Philadelphia, PA, United States |  | 2026-11-25 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38735) |
@@ -91,6 +100,8 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
 | Accounts Payable | Larson Financial Holdings, LLC | Chesterfield, MO |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694760) |
 | Director, Finance Data, Reporting & AI | veeamsoftware | Remote, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5045175101) |
+| Senior Accountant | onceuponafarm | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/onceuponafarm/d2ade8a1-d148-4888-8b17-a0145de54402) |
+| Billing Specialist | momsmeals | Ankeny, IA |  | 2026-11-25 | [Apply](https://jobs.lever.co/momsmeals/5130ffa3-4517-4994-900a-7b13e477a270) |
 | Senior Accountant | ascendhealthcare | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ascendhealthcare/jobs/5309711007) |
 | Internal Audit Senior Specialist | Wise | Austin, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Wise/744000163767669) |
 | Senior Manager, Global Inventory and Cost Accounting | revolutionmedicines | Redwood City, California, United States |  | 2026-11-25 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8217278003) |
@@ -178,9 +189,9 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Associate Director of Finance | Harvard University | Boston, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017079946) |
 | Accounting Manager / Sr. Manager | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/d88abbcc-40ff-470e-b368-c0446b4f0243) |
 | Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
-| Workday PSA Project Billing Specialist - Contract | HED | Los Angeles, CA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=73f568d7-f300-4c97-af4c-df2862da5316&ccId=19000101_000001&jobId=571549&lang=en_US&source=CC2) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Accounting Specialist - Santa Fe, NM | Del Norte Credit Union | Santa Fe, NM |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692644) |
 | Federal Grants Accounting and Compliance Manager | XWELL | Remote Worker - N/A |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690621) |
 | Accounting Payables Clerk | Belletetes Inc | Jaffrey, NH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689531) |
 | Director, Financial Planning & Analysis | Unlimited Service Group | Addison, IL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/fesco/job/oBO8AfwR) |
@@ -194,17 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Financial Consolidations Manager | Parts Town | Addison, IL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/parts-town/job/oX29Bfwt) |
 | Collections Specialist | Kings III of America, LLC | Coppell, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692174) |
 | Staff Accountant II | ARCXIS | Houston, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692753) |
-| Part-Time HR & Payroll Specialist | Greenhouse Fabrics, Inc. | High Point, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686818) |
-| Accounts Receivable Specialist | Polaris Direct LLC | Hooksett, NH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684751) |
-| Billing Specialist | Franklin County Medical Center | Preston, ID |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692860) |
-| Supervisor Of Operations - BOCC Controller | TRANSIT MANAGEMENT OF CHARLOTTE INC | Charlotte, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689405) |
-| Senior Financial Analyst | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-24 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=990842&lang=en) |
-| Senior Financial Analyst | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-24 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=991184&lang=en) |
-| Financial Analyst II | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-24 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=991185&lang=en) |
-| Accounts Payable Clerk | D.R. Horton | Chantilly, VA, US |  | 2026-11-24 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605960&lang=en) |
-| Accountant I | D.R. Horton | Austin, TX, US |  | 2026-11-24 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605882&lang=en) |
-| Financial Analyst | American Tower | Woburn, MA, United States |  | 2026-11-24 | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3105) |
-| Lead Auditor | Intertek | United States |  | 2026-11-24 | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16347) |
 <!-- JOBS_TABLE_END -->
 
 <details>
