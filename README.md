@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,865</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,874</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 08:17 UTC</sub>
+<sub>Snapshot 2026-11-27 12:17 UTC</sub>
 
 </div>
 
@@ -50,13 +50,15 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,865 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**12,874 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Associate/Analyst- GL Accounting | ashland | IN-HYDERABAD-DIVYASHREE |  | 2026-11-27 | [Apply](https://ashland.wd12.myworkdayjobs.com/en-US/ashlandcareers1/job/IN-HYDERABAD-DIVYASHREE/Senior-Associate-Analyst--GL-Accounting_2026-0686) |
 | Sr. Associate, Equipment Finance and Contract Management | alcon | Fort Worth, Texas |  | 2026-11-27 | [Apply](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Equipment-Finance-and-Contract-Management_R-2026-51073-1) |
 | Especialista de Consumer Finance (Tijuana B.C) | bbva | Baja California, Tijuana, 22014 |  | 2026-11-27 | [Apply](https://bbva.wd3.myworkdayjobs.com/en-US/bbva/job/Baja-California-Tijuana-22014/Especialista-de-Consumer-Finance--Tijuana-BC-_JR00121257) |
+| Financial Analyst | Newmark Group | San Francisco, CA, United States |  | 2026-11-26 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250615) |
 | Director of Treasury | Barracuda Networks Inc. | Campbell, CA, United States |  | 2026-11-26 | [Apply](https://jobs.jobvite.com/barracuda-networks-inc/job/ohV7AfwD) |
 | Tax Specialist | bakerhughes | CO-BOGOTA-CARRERA 7 NO 123-35 |  | 2026-11-26 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/CO-BOGOTA-CARRERA-7-NO-123-35/Tax-Specialist_R172049) |
 | Client Finance Manager | monks | New York, United States |  | 2026-11-26 | [Apply](https://www.monks.com/careers/6268450004/job?gh_jid=6268450004) |
@@ -175,6 +177,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Federal Grants Accounting and Compliance Manager | XWELL | Remote Worker - N/A |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690621) |
 | Accounting Payables Clerk | Belletetes Inc | Jaffrey, NH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689531) |
 | Director, Financial Planning & Analysis | Unlimited Service Group | Addison, IL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/fesco/job/oBO8AfwR) |
 | Billing Specialist | Moove NA Distribution Holdings, Inc. | King of Prussia, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691018) |
@@ -202,9 +205,6 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Supervisor, Fund Accounting - Real Assets | Citco | Dallas, TX, United States |  | 2026-11-24 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22047) |
 | Finance Associate - Level III | Cummins | Whitakers, NC, United States |  | 2026-11-24 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442269) |
 | Accounting Intern (2027 Internship Program) | DTCC | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214471) |
-| Finance Director, Operations (Diagnostics) | Hologic | San Diego, CA, United States |  | 2026-11-24 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12804) |
-| Senior Financial Analyst | Hologic | Marlborough, MA, United States |  | 2026-11-24 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12779) |
-| Controller | CSL CPAs | Sarasota, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691777) |
 <!-- JOBS_TABLE_END -->
 
 <details>
