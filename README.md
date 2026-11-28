@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-finance-accounting-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-finance-accounting-jobs-light.svg"><img alt="Finance and accounting jobs: JobHacki job list, last updated on Nov 27, 2026" src="assets/dist/hero-finance-accounting-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-finance-accounting-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-finance-accounting-jobs-light.svg"><img alt="Finance and accounting jobs: JobHacki job list, last updated on Nov 28, 2026" src="assets/dist/hero-finance-accounting-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -20,7 +20,7 @@
 
 <table><tr><td align="center" valign="top"><h3>12,808</h3><sub>open finance and accounting jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 20:17 UTC</sub>
+<sub>Snapshot 2026-11-28 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Accountants, analysts and finance professionals, explore a fresh slice of finance and accounting jobs taken from employers' own hiring systems. Updated Nov 27, 2026.
+Accountants, analysts and finance professionals, explore a fresh slice of finance and accounting jobs taken from employers' own hiring systems. Updated Nov 28, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,11 +50,15 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 
 ## Open jobs
 
-**12,808 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 20:17 UTC.** Apply links go to the employer's career page or hiring system.
+**12,808 open finance and accounting jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Director, Billing to Cash | pointclickcare | Remote, USA | $126.9k-158.6k/yr | 2026-11-27 | [Apply](https://jobs.lever.co/pointclickcare/18f73f69-b849-4a4b-9ecf-a1858b4f5e33) |
+| Accounts Payable Clerk | Jobs for Humanity | Milwaukee, WI, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000164096669) |
+| Copy of Accounts Payable Clerk | Jobs for Humanity | Cheyenne, WY, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000164097269) |
+| Copy of Copy of Accounts Payable Clerk | Jobs for Humanity | Charleston, WV, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000164097389) |
 | Tax Jr. Analyst | bacardi | Escazu, San Jose |  | 2026-11-27 | [Apply](https://bacardi.wd3.myworkdayjobs.com/en-US/jobs_bacardi/job/Escazu-San-Jose/Tax-Jr-Analyst_R26_02213-1) |
 | Scheduling & Billing Specialist - OP Physical Therapy - Physical Therapy Oxford... | easyservice | Cincinnati, OH |  | 2026-11-27 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/Scheduling---Billing-Specialist---OP-Physical-Therapy---Physical-Therapy-Oxford-and-WOSM-Outreach_R290959) |
 | Billing Analyst, Junior | bah | 2 Locations |  | 2026-11-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Billing-Analyst--Junior_R0254334) |
@@ -86,6 +90,8 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Sr. Oracle Fusion Financial Analyst | avav | 2 Locations |  | 2026-11-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Remote---Kentucky/Enterprise-Analyst--Sr---Oracle-Fusion-Finance---EPM_8401) |
 | Payroll/HR Manager | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/The-Park-In-Plano/Payroll-HR-Manager_JR191305) |
 | Senior Financial Analyst, Operations and Manufacturing | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Financial-Analyst--Operations-and-Manufacturing_JR2030264) |
+| Staff Accountant | Advanced Cooling Technologies, Inc | Lancaster, PA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694612) |
+| Senior Accountant | ADP employer 8fc55aea | Morgan Hill, CA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fc55aea-97a2-4103-914f-6a4acdee552c&ccId=19000101_000001&jobId=591057&lang=en_US&source=CC2) |
 | Accounts Payable Dealership Automotive | Sam Packs Five Star Ford LTD | Farmers Branch, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693288) |
 | Billing Associate (On Site) | Acuity Eye Group | Arcadia, CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695160) |
 | Financial Analyst - Midvale (In Office) | Zions Bank | Midvale, UT, US |  | 2026-11-25 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072255&lang=en) |
@@ -96,12 +102,12 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Senior Manager, Payroll | Fortinet | Sunnyvale, CA, United States |  | 2026-11-25 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/25066) |
 | Financial Analyst II | Hologic | San Diego, CA, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12867) |
 | Senior Director, Finance and Accounting Advisory Services | armaninollp | 16 Locations |  | 2026-11-25 | [Apply](https://armaninollp.wd1.myworkdayjobs.com/en-US/armanino/job/Austin-Texas/Senior-Director--Finance-and-Accounting-Advisory-Services_JR104599) |
+| Senior Manager, FP&A | protolabs | Maple Plain, MN | $117k-175.6k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/protolabs/20fc763e-b38b-4251-bb23-ee322ef6aca9) |
+| Accounting Manager, Debt &Corporate | pivotenergy | Denver, Colorado | $95k-130k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/pivotenergy/c34cea7c-019d-437f-89d3-4dd698860ab3) |
 | Controller | Omnia Exterior Solutions |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694128) |
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
 | Accounts Payable | Larson Financial Holdings, LLC | Chesterfield, MO |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694760) |
 | Director, Finance Data, Reporting & AI | veeamsoftware | Remote, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5045175101) |
-| Senior Accountant | onceuponafarm | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/onceuponafarm/d2ade8a1-d148-4888-8b17-a0145de54402) |
-| Billing Specialist | momsmeals | Ankeny, IA |  | 2026-11-25 | [Apply](https://jobs.lever.co/momsmeals/5130ffa3-4517-4994-900a-7b13e477a270) |
 | Senior Accountant | ascendhealthcare | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ascendhealthcare/jobs/5309711007) |
 | Internal Audit Senior Specialist | Wise | Austin, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Wise/744000163767669) |
 | Senior Manager, Global Inventory and Cost Accounting | revolutionmedicines | Redwood City, California, United States |  | 2026-11-25 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8217278003) |
@@ -115,6 +121,7 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Order to Cash Transformation Specialist | Atoms | San Francisco, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8959043002) |
 | Business Planning Controller | asm | US &gt; Arizona &gt; Phoenix |  | 2026-11-25 | [Apply](https://www.asm.com/open-vacancies/?gh_jid=5031367101) |
 | Principal Financial Analyst | The Port Authority of NY & NJ | New York, NY, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/panynj/job/otRYAfwC) |
+| 2027 Summer Accounting Internship | Meadows Urquhart | Richmond, Virginia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/1A74C5E6F4) |
 | Lead Revenue Accountant | abcfinancial | Remote, United States |  | 2026-11-25 | [Apply](https://abcfinancial.wd5.myworkdayjobs.com/en-US/abcfinancialservices/job/Remote-United-States/Lead-Revenue-Accountant_REQ-1659) |
 | Billing Specialist - Temp to Perm | ballardspahr | 16 Locations |  | 2026-11-25 | [Apply](https://ballardspahr.wd5.myworkdayjobs.com/en-US/ballard_spahr_llp/job/PA---Philadelphia/Billing-Specialist---Temp-to-Perm_REQ-507) |
 | Payroll Lead | westernexp | Nashville, TN |  | 2026-11-25 | [Apply](https://westernexp.wd5.myworkdayjobs.com/en-US/wsx/job/Nashville-TN/Payroll-Lead_R2682) |
@@ -191,20 +198,13 @@ Accountants, analysts and finance professionals, explore a fresh slice of financ
 | Manager / Sr. Manager Cost Accounting | Karman Industries | Los Angeles | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Karman%20Industries/78ac6b8e-d5c6-41ad-bea7-1fe15f4fc179) |
 | Domestic Tax Analyst | columbiasportswearcompany | Portland, Oregon, United States of America |  | 2026-11-25 | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/csc_careers/job/Portland-Oregon-United-States-of-America/Domestic-Tax-Analyst_R-027677-2) |
 | Tax Principal - Life Sciences | bakertilly | USA MA Tewksbury |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Tax-Principal---Life-Sciences_JR103965) |
+| Payroll Coordinator | Careers at Gentell | Morrisville, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690432) |
 | Accounting Specialist - Santa Fe, NM | Del Norte Credit Union | Santa Fe, NM |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692644) |
 | Federal Grants Accounting and Compliance Manager | XWELL | Remote Worker - N/A |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690621) |
 | Accounting Payables Clerk | Belletetes Inc | Jaffrey, NH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689531) |
 | Director, Financial Planning & Analysis | Unlimited Service Group | Addison, IL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/fesco/job/oBO8AfwR) |
 | Billing Specialist | Moove NA Distribution Holdings, Inc. | King of Prussia, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691018) |
 | Director of Finance & Administration | Big Brothers Big Sisters of New York City Inc | New York |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4278938) |
-| Senior Accountant (On-Site) | RK Logistics Group, Inc. | Hillsborough, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690944) |
-| Finance Director | RK Logistics Group, Inc. | Hillsborough, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691002) |
-| Billing Assistant (BA) | Inteli-Care LLC | Albuquerque, NM |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4541126) |
-| Sr. Accounting Financial Analyst | Power Integrations | San Jose, CA, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/power-integrations/job/oGj8Afwr) |
-| Project Accounting Supervisor, Electric Power Division | Hooper Deforest | Deforest, WI |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691137) |
-| Financial Consolidations Manager | Parts Town | Addison, IL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/parts-town/job/oX29Bfwt) |
-| Collections Specialist | Kings III of America, LLC | Coppell, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692174) |
-| Staff Accountant II | ARCXIS | Houston, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692753) |
 <!-- JOBS_TABLE_END -->
 
 <details>
